@@ -13,6 +13,6 @@
 在手册中有什么：
 在第0章中，概述了一年来前端的发展和走向。章节1&2目的是简明扼要地概括前端发展的规定和实践。章节3&4组织和推荐了学习的路径和资源。章节5组织并列举前端开发者所使用的工具，第6章节标注了前端信息的出处。
 
-在Github中贡献内容、提供建议和修正：
+欢迎在Github中贡献内容、提供建议和修正：
 
 [https://github.com/FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019)
