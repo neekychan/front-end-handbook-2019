@@ -1,21 +1,22 @@
 # 第0章 回顾2018年并展望未来
 <!-- React had several notable releases this past year that included, lifecycle methods, context API, suspense, and React hooks. -->
-- 在过去一年,React中有不少瞩目的发布，包括lifecycle函数、context API，suspense 和 React hooks.
+- 在过去一年，React中有不少瞩目的发布，包括[lifecycle函数](https://reactjs.org/blog/2018/03/29/react-v-16-3.html#component-lifecycle-changes)、[context API](https://reactjs.org/blog/2018/03/29/react-v-16-3.html#official-context-api)，[suspense](https://reactjs.org/docs/react-api.html#reactsuspense)、[React hooks](https://reactjs.org/docs/hooks-intro.html)。
 <!-- Microsoft buys Github. Yeah, that happened. -->
-- 微软收购Github.没错，这真的发生了。
+- [微软收购Github](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)。没错，这是真的。
 <!-- Fonts created by CSS became a thing. -->
-- 用CSS制作Fonts已成为可能。
+- 用CSS制作[Fonts](https://yusugomori.com/projects/css-sans/)。
 <!-- What I used to call front-end driven apps, gets labeled "serverless". Unfortunately, this term is overloaded. However, the term JAMstack does seem to be resonating with developers. -->
-- 我以往称作前端驱动的APP，被称作“去服务端化”。不幸的是，这言过于实了。然而，JAMstack看起来引起了开发者的共鸣。
+- 我以往称作前端驱动的APP，被称作[“无服务”](https://thepowerofserverless.info/)。不幸的是，这言过于实了。然而，[JAMstack](https://jamstack.org/)看起来引起了开发者的[回响](https://jamstackconf.com/nyc/)。
 <!-- Google offered some neat tools this year to help make webpages load faster, i.e. squoosh and quicklink. -->
+Google提供了一些好用的工具去帮助网页加载得更快，也就是[squoosh](https://github.com/GoogleChromeLabs/squoosh/)和[quicklink](https://github.com/GoogleChromeLabs/quicklink)
 <!-- Vue gets more Github stars than React this year. But React remains dominate in terms of use. -->
-- 这里年里，Vue比React获得了更多的Github starts。但React在使用方面仍占主导地位。
+- 这里年里，[Vue](https://risingstars.js.org/2018/en/#section-framework)比React获得了更多的[Github stars](https://hasvuepassedreactyet.surge.sh/)。但React在[使用](https://www.npmjs.com/browse/depended)[方面](https://2018.stateofjs.com/front-end-frameworks/overview/)仍占主导地位。
 <!-- A solution similar to React, without a virtual DOM or JSX, is introduced RE:DOM. -->
-- RE:DOM引入了一个类似于React的解决方案，不包含虚拟DOM和JSX。
+- [RE:DOM](https://github.com/redom/redom)引入了一个类似于React的解决方案，不包含虚拟DOM和JSX。
 <!-- Alternatives to NW.js and Electron show up, DeskGap and Neutralino.js. -->
-- DeskGap和Neutralino.js作为NW.js和Electron的替代品出现。
+- [DeskGap](https://deskgap.com/)和[Neutralino.js](https://neutralino.js.org/)作为NW.js和Electron的替代品出现。
 <!-- In 2017 the great divide between a front-end HTML & CSS developer v.s. front-end application developer is realized/verbalized. In 2018 that divide has grown wider and deeper and more people start to feel the divide. -->
-- 在2017年， 前端HTML&CSS开发者与前端应用开发者之间产生了巨大的分水岭。在2018年，分水岭越发宽广和加深，且越来越多人开始感受到这种情形。
+- 在2017年， [前端HTML&CSS开发者](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)与[前端应用开发者](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)之间产生了[巨大的](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)分水岭。在2018年，分水岭越发[宽广和加深](https://css-tricks.com/the-great-divide/)，且越来越多[人](https://rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/)开始[感受](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4)到这种[情形](https://justmarkup.com/log/2018/11/just-markup/)。
 <!-- This year, like most recent years, was stock full of app/framework solutions trying to contend with the mainstream JavaScript app tools (i.e. React, Angular, and Vue etc...) Let me list them for you. Radi.js, DisplayJS, Stimulus, Omi, Quasar. -->
 - 这一年，与最近几年一样，有成堆的应用/框架的解决方案尝试角逐成为主流的JavaScript App工具（例如React、Angular、Vue等等）让我为你列举一下，Radi.js, DisplayJS, Stimulus, Omi, Quasar.
 <!-- JavaScript frameworks start offering their own languages that compile to JavaScript (e.g. Mint). -->

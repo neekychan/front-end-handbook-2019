@@ -1,23 +1,13 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.38 任务（又称构建）工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### 任务或构建工具：
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Gulp](http://gulpjs.com/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+#### 自用任务或构建工具：
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [Brunch](http://brunch.io/)
 
+<!-- Before reaching for Gulp make sure npm scripts or yarn script won't fit the bill. Read, "Why I Left Gulp and Grunt for npm Scripts". -->
 
-**发现SEO工具的工具：**
-
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
-
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+在接触Gulp之前，确保[npm scripts](https://docs.npmjs.com/misc/scripts)或[yarn script](https://yarnpkg.com/en/docs/package-json#toc-scripts)是否符合要求。 请阅读["我为什么留下npm Scripts抛弃了Gulp和Grunt"](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.nw3huib54)。

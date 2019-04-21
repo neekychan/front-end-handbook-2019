@@ -1,23 +1,25 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.21 UI小部件和组件工具包
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### On Web Platform:
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Kendo UI](http://www.telerik.com/kendo-ui) for jQuery \[free to $\]
+*   [Materialize](http://materializecss.com/)
+*   [Office UI Fabric](http://dev.office.com/fabric)
+*   [Semantic UI](http://semantic-ui.com/)
+*   [UiKit](https://getuikit.com/)
+*   [Webix](http://webix.com/) \[$\]
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+#### React Specific, On Web Platform:
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [Ant Design](https://ant.design/)
+*   [Material ui](http://material-ui.com/)
+*   [Semantic-UI-React](https://react.semantic-ui.com/)
+*   [ExtReact](https://www.sencha.com/products/extreact/#app) \[$\]
+*   [Fabric](https://developer.microsoft.com/en-us/fabric)
 
+#### Native Desktop/Laptop/Netbook Apps via Web Platform (i.e. used with NW.js and Electron):
 
-**发现SEO工具的工具：**
+*   [Photon](http://photonkit.com/)
+*   [React UI Components for OS X El Capitan and Windows 10](http://gabrielbull.github.io/react-desktop/)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
-
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+If you need a basic set of UI Widgets/Components start with [Semantic UI](http://semantic-ui.com/). If you are building something that needs a grid, spreadsheet, or pivot grid you'll have to look at [Kendo UI](http://www.telerik.com/kendo-ui) or [Webix](http://webix.com/). Keep in mind that most of these solutions still require jQuery.

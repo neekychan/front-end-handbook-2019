@@ -1,23 +1,23 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.39 部署工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+*   [Bamboo](https://www.atlassian.com/software/bamboo/) \[$\]
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Buddy](https://buddy.works/) \[$免费\]
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [CircleCI](https://circleci.com/) \[$免费\]
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [Codeship](https://codeship.com/) \[$免费\]
 
+*   [Deploybot](https://deploybot.com/) \[$免费\]
 
-**发现SEO工具的工具：**
+*   [Deployhq](https://www.deployhq.com/) \[$免费\]
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+*   [FTPLOY](http://ftploy.com/) \[$免费\]
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [Now](https://zeit.co/now) \[$免费\]
+
+*   [Travis CI](http://docs.travis-ci.com/) \[$免费\]
+
+*   [Semaphore](https://semaphoreci.com/) \[$免费\]
+
+*   [Springloops](http://www.springloops.io/) \[$免费\]

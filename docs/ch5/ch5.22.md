@@ -1,23 +1,26 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.22 数据可视化（例如，图表）工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### JS Libraries:
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [d3](http://d3js.org/)
+*   [sigmajs](http://sigmajs.org/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+#### Widgets & Components:
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [amCharts](http://www.amcharts.com/) \[free to $\]
+*   [AnyChart](http://www.anychart.com/) \[Non-commercial free to $\]
+*   [C3.js](http://c3js.org/)
+*   [Chartist-jsj](https://github.com/gionkunz/chartist-js)
+*   [Chart.js](http://www.chartjs.org/)
+*   [Epoch](http://epochjs.github.io/epoch/)
+*   [FusionCharts](http://www.fusioncharts.com/) \[$\]
+*   [Google Charts](https://developers.google.com/chart/interactive/docs/)
+*   [Highcharts](http://www.highcharts.com/) \[Non-commercial free to $\]
+*   [ZingChart](http://www.zingchart.com/) \[free to $\]
 
+#### Services (i.e. hosted data visualization services for embedding and sharing):
 
-**发现SEO工具的工具：**
-
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
-
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [ChartBlocks](http://www.chartblocks.com/) \[free to $\]
+*   [Datawrapper](https://datawrapper.de/)
+*   [infogr.am](https://infogr.am) \[free to $\]
+*   [plotly](https://plot.ly/) \[free to $\]

@@ -1,23 +1,37 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.35 后端和API工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### 数据和后端服务，也叫BAAS：
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Backendless](https://backendless.com)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [Firebase](https://www.firebase.com/index.html) \[$免费\]
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [Pusher](https://pusher.com/) \[$免费\]
 
+*   [restdb.io](https://restdb.io/) \[$免费\]
 
-**发现SEO工具的工具：**
+*   [MongoDB Stitch](https://www.mongodb.com/cloud/stitch)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+#### 数据和后端
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [GraphQL](http://graphql.org/)
+
+    *   [Apollo](http://www.apollodata.com/)
+
+    *   [Relay](https://facebook.github.io/relay/)
+
+*   [Falcor](https://netflix.github.io/falcor/)
+
+*   [RxDB](https://github.com/pubkey/rxdb)
+
+#### 用户管理服务：
+
+*   [Auth0](https://auth0.com) \[$\]
+
+*   [AuthRocket](https://authrocket.com)
+
+*   [Okta](https://developer.okta.com/)
+
+#### 搜索
+
+*   [Algolia](https://www.algolia.com)

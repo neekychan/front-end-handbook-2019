@@ -1,23 +1,17 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.17 状态工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+*   [Redux](https://redux.js.org/)
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Mobx](https://mobx.js.org/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [Cerebral](https://github.com/cerebral/cerebral)
 
+*   [freactal](https://github.com/FormidableLabs/freactal)
 
-**发现SEO工具的工具：**
+*   [unistore](https://github.com/developit/unistore)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+*   [unstated](https://github.com/jamiebuilds/unstated)
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [Vuex](https://vuex.vuejs.org/en/)

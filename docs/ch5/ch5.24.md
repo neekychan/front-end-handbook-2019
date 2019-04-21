@@ -1,23 +1,25 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.24 动画工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### CSS and JavaScript Utilities:
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Animate Plus](https://github.com/bendc/animateplus)
+*   [Animate](https://github.com/daneden/animate.css)
+*   [Anime.js](http://animejs.com/)
+*   [Animista.net](http://animista.net/)
+*   [Dynamics.js](http://dynamicsjs.com/)
+*   [GreenSock-JS](http://greensock.com/)
+*   [Kute.js](http://thednp.github.io/kute.js/)
+*   [Magic](https://github.com/miniMAC/magic)
+*   [Micron.js](https://webkul.github.io/micron/)
+*   [Motion](http://mojs.io/)
+*   [TweenJS](https://github.com/CreateJS/TweenJS)
+*   [Popmotion](https://popmotion.io)
+*   [Velocity.js](http://julian.com/research/velocity/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+#### Polyfills/Shims:
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [web-animations-js](https://github.com/web-animations/web-animations-js)
 
+#### Animation References:
 
-**发现SEO工具的工具：**
-
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
-
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [canianimate.com](http://canianimate.com/)
