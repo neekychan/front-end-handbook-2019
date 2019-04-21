@@ -1,23 +1,13 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.32 项目管理和代码托管工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+*   [Assembla](https://www.assembla.com) \[$免费\]
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Bitbucket](https://bitbucket.org) \[$免费\]
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [Codebase](https://www.codebasehq.com/) \[$\]
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [Github](https://github.com/) \[$免费\]
 
+*   [GitLab](https://about.gitlab.com/) \[$免费\]
 
-**发现SEO工具的工具：**
-
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
-
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [Unfuddle](https://unfuddle.com/) \[$\]

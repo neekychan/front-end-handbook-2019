@@ -1,23 +1,22 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+<!-- 5.43 - Tools for Finding Tools -->
+### 5.43 查找工具的工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
++ [built with](http://builtwith.com/)
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
++ [frontendtools.com](http://frontendtools.com/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
++ [javascripting.com](http://www.javascripting.com/)
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
++ [js.coach](https://js.coach/)
 
++ [JSter](http://jster.net/)
 
-**发现SEO工具的工具：**
++ [npms](https://npms.io/)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
++ [stackshare.io](http://stackshare.io/)
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
++ [Unheap](http://www.unheap.com/)
+
++ [bestof.js.org](https://bestof.js.org/)
+
++ [librariers.io](https://libraries.io/)

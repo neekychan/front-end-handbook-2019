@@ -1,23 +1,13 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.36 离线工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+*   [Hoodie](http://hood.ie/)
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Offline.js](http://github.hubspot.com/offline/docs/welcome/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [PouchDB](http://pouchdb.com/)
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [upup](https://www.talater.com/upup/)
 
+*   [Workbox](https://developers.google.com/web/tools/workbox/)
 
-**发现SEO工具的工具：**
-
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
-
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+更多相关工具，请查看 [这里](https://github.com/pazguille/offline-first#tools).

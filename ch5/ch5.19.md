@@ -1,23 +1,7 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.19 GUI开发和构建工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+*   [CodeKit](http://incident57.com/codekit/)
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Prepros](https://prepros.io/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
-
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
-
-
-**发现SEO工具的工具：**
-
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
-
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [KoalaApp](http://koala-app.com/) \[免费\]

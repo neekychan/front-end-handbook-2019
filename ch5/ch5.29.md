@@ -1,23 +1,17 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.29 模块加载和打包工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+*   [Parcel](https://parceljs.org/)
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Rollup](http://rollupjs.org/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+    *   [Microbundle](https://github.com/developit/microbundle)
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [webpack](https://webpack.js.org/)
 
+    *   [Poi](https://poi.js.org/)
 
-**发现SEO工具的工具：**
+    *   [jetpack](https://github.com/KidkArolis/jetpack)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+*   [Fusebox](https://fuse-box.org/)
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [Browserify](http://browserify.org/)

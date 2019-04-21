@@ -1,23 +1,21 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.31 托管工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### 一般的
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [AWS](https://aws.amazon.com/websites/) \[$\]
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [DigitalOcean](https://digitalocean.com) \[$\]
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [WebFaction](https://www.webfaction.com/) \[$\]
 
+#### 静态的
 
-**发现SEO工具的工具：**
+*   [Firebase Hosting](https://firebase.google.com/docs/hosting/) \[$免费\]
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+*   [netlify](https://www.netlify.com) \[$免费\]
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+    *   [Bitballoon](https://www.bitballoon.com/)
+
+*   [Surge](https://surge.sh/) \[$免费\]
+
+*   [Forge](https://getforge.com/) \[$\]

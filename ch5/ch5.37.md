@@ -1,23 +1,19 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.37 安全工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### 编码工具：
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [DOMPurify](https://github.com/cure53/DOMPurify)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [XSS](http://jsxss.com/en/index.html)
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+#### 安全扫描仪/评估器/测试仪：
 
+*   [Netsparker](https://www.netsparker.com)
 
-**发现SEO工具的工具：**
+*   [Websecurify](http://www.websecurify.com/)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+*   [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+#### 参考文献：
+
+*   [HTML5安全备忘单](https://html5sec.org/)

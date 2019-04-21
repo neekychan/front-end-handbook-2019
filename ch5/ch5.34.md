@@ -1,23 +1,31 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.34 内容托管管理和API工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### 无头内容管理系统工具:
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Contentful](https://www.contentful.com/) \[$\]
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [prismic.io](https://prismic.io/) \[$免费\]
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [Headless](https://www.headless.rest/)
 
+#### 自托管的无头内容管理系统工具:
 
-**发现SEO工具的工具：**
+*   [Cockpit](https://getcockpit.com/)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+*   [Directus 7 App](https://directus.io/)
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+#### 托管内容管理系统:
+
+*   [LightCMS](https://www.lightcms.com) \[$\]
+
+*   [Surreal CMS](http://www.surrealcms.com/) \[$\]
+
+#### 静态的内容管理系统工具:
+
+*   [webhook.com](http://www.webhook.com/)
+
+*   [Dato CMS](https://www.datocms.com/)
+
+*   [siteleaf](https://www.siteleaf.com/)
+
+*   [forestry.io](https://forestry.io/)

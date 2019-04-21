@@ -3,9 +3,9 @@
 
 <!-- A source code editor is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are the most fundamental programming tool, as the fundamental job of programmers is to write and edit source code.
 — Wikipedia -->
-> *源代码编辑器是一种文本编辑器程序，专门用于程序员编辑计算机程序的源代码。 它可以是独立的应用程序，也可以内置在集成开发环境（IDE）或者在Web浏览器中。 源代码编辑器是最基本的编程工具，因为程序员的基本工作是编写和编辑源代码。 - [维基百科](https://en.wikipedia.org/wiki/Source_code_editor)*  
+> *源代码编辑器是一种文本编辑器程序，专门用于程序员编辑计算机程序的源代码。 它可以是独立的应用程序，也可以内置在集成开发环境（IDE）或者在Web浏览器中。 源代码编辑器是最基本的编程工具，因为程序员的基本工作是编写和编辑源代码。 - [维基百科](https://en.wikipedia.org/wiki/Source_code_editor)* 
+ 
 <br>
-
 <!-- Front-end code can minimally be edited with a simple text editing application like Notepad or TextEdit. But, most front-end practitioners use a code editor specifically design for editing a programming language. -->
 使用Notepad或者TextEdit等简单的文本编辑应用程序可以最低限度地编辑前端代码。 但是，大多数前端从业者使用专门设计的代码编辑器来编辑编程语言。
 

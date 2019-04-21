@@ -1,23 +1,27 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.26 占位符内容工具
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+#### Images:
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [placehold.it](http://placehold.it)
+*   [Satyr](http://satyr.io)
+*   [Placeimg](http://placeimg.com)
+*   [Lorem Pixel](http://lorempixel.com)
+*   [CSS-Tricks Image Resources](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
+*   [LibreStock](http://librestock.com)
+*   [Unsplash](https://unsplash.it)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+#### Device Mockups:
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [placeit.net](https://placeit.net)
+*   [mockuphone.com](http://mockuphone.com)
 
+#### Text:
 
-**发现SEO工具的工具：**
+*   [Meet the Ipsums](http://meettheipsums.com)
+*   [catipsum.com](http://www.catipsum.com/)
+*   [baconipsum.com](http://baconipsum.com/) ([API](http://baconipsum.com/json-api/))
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+#### User Data:
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [uinames.com](https://uinames.com)
+*   [randomuser.me](https://randomuser.me)

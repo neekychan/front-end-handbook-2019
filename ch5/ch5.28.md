@@ -1,23 +1,21 @@
-<!-- 5.2 - SEO Tools -->
-### 5.2 SEO工具
+### 5.28 前端数据存储工具（即客户端中的数据存储解决方案）
 
-<!-- General SEO Tools:-->
-**一般的SEO工具：**
+*   [AlaSQL](http://alasql.org/)
 
-<!-- Keyword Tool -->
-+ [关键字工具](http://keywordtool.io/)
+*   [Dexie.js](http://www.dexie.org/)
 
-<!-- Google Webmasters Search Console -->
-+ [Google网站管理员搜索控制台](https://www.google.com/webmasters/)
+*   [LocalForage](https://localforage.github.io/localForage/)
 
-<!-- Varvy SEO tool -->
-+ [Varvy SEO工具](https://varvy.com/tools/)
+*   [LokiJS](http://lokijs.org/#/)
 
+*   [Lovefield](https://google.github.io/lovefield)
 
-**发现SEO工具的工具：**
+*   [lowdb](https://github.com/typicode/lowdb)
 
-<!-- SEO Tools - The Complete List -->
-+ [SEO工具 - 完整列表](http://backlinko.com/seo-tools)
+*   [Pouchdb](http://pouchdb.com/)
 
-<!-- CuratedSEOTools - Curated directory of the best SEO tools -->
-+ [CuratedSEOTools - 最好的SEO工具的策划目录](https://curatedseotools.com/)
+*   [NeDB](https://github.com/louischatriot/nedb)
+
+*   [RxDB](https://pubkey.github.io/rxdb/install.html)
+
+*   [ImmortalDB](https://github.com/gruns/ImmortalDB)
