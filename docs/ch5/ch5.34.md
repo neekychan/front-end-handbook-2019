@@ -4,7 +4,7 @@
 
 *   [Contentful](https://www.contentful.com/) \[$\]
 
-*   [prismic.io](https://prismic.io/) \[$免费\]
+*   [prismic.io](https://prismic.io/) \[免费\]
 
 *   [Headless](https://www.headless.rest/)
 

@@ -92,13 +92,13 @@
 <!-- Hosted Testing/Automation for Browsers: -->
 **浏览器的托管测试和自动化：**
 
-+ [Browserling](https://www.browserling.com/) [$免费]
++ [Browserling](https://www.browserling.com/) [免费]
 
 + [BrowserStack](https://www.browserstack.com/) [$]
 
 + [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
 
-+ [Ghost Inspector](https://ghostinspector.com/) [$免费]
++ [Ghost Inspector](https://ghostinspector.com/) [免费]
 
 + [Nightcloud.io](http://nightcloud.io/)
 

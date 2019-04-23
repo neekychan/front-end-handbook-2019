@@ -56,13 +56,13 @@
 **在线代码编辑器：**
 
 <!-- PaizaCloud [free to $] -->
-+ [PaizaCloud](https://paiza.cloud/) [$免费]
++ [PaizaCloud](https://paiza.cloud/) [免费]
 
 <!-- AWS Cloud9 [$] -->
 + [AWS Cloud9](https://aws.amazon.com/cloud9/) [$]
 
 <!-- Codeanywhere [free to $] -->
-+ [Codeanywhere](https://codeanywhere.com/) [$免费]
++ [Codeanywhere](https://codeanywhere.com/) [免费]
 
 <!-- StackBliz -->
 + [StackBliz](https://stackblitz.com/)
@@ -77,10 +77,10 @@
 用于共享有限数量的可立即运行的代码。 不是真正的代码编辑器，而是用于在Web浏览器中共享少量可立即运行代码的工具。
 
 <!-- CodePen [free to $] -->
-+ [CodePen](http://codepen.io/) [$免费]
++ [CodePen](http://codepen.io/) [免费]
 
 <!-- jsbin.com [free to $] -->
-+ [jsbin.com](http://jsbin.com/) [$免费]
++ [jsbin.com](http://jsbin.com/) [免费]
 
 <!-- jsfiddle.net -->
 + [jsfiddle.net](http://jsfiddle.net/)
