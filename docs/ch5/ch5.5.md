@@ -5,7 +5,7 @@
 + [Charles](http://www.charlesproxy.com/) [$]
 
 <!-- Chrome DevTools Network Panel -->
-+ [Chrome DevTools网络面板](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading)
++ [Chrome DevTools Network面板](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading)
 
 <!-- Insomnia [free - $] -->
 + [Insomnia](https://insomnia.rest/) [免费]
