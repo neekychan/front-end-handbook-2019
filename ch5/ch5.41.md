@@ -9,8 +9,8 @@
 
 + [Raygun](https://raygun.io/) [$]
 
-+ [Rollbar](https://rollbar.com/) [$免费]
++ [Rollbar](https://rollbar.com/) [免费]
 
-+ [Sentry](https://getsentry.com/welcome/) [$免费]
++ [Sentry](https://getsentry.com/welcome/) [免费]
 
 + [TrackJS](https://trackjs.com/) [$]

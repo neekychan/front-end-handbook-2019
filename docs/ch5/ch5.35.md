@@ -4,11 +4,11 @@
 
 *   [Backendless](https://backendless.com)
 
-*   [Firebase](https://www.firebase.com/index.html) \[$免费\]
+*   [Firebase](https://www.firebase.com/index.html) \[免费\]
 
-*   [Pusher](https://pusher.com/) \[$免费\]
+*   [Pusher](https://pusher.com/) \[免费\]
 
-*   [restdb.io](https://restdb.io/) \[$免费\]
+*   [restdb.io](https://restdb.io/) \[免费\]
 
 *   [MongoDB Stitch](https://www.mongodb.com/cloud/stitch)
 

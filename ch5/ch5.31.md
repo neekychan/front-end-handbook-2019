@@ -10,12 +10,12 @@
 
 #### 静态的
 
-*   [Firebase Hosting](https://firebase.google.com/docs/hosting/) \[$免费\]
+*   [Firebase Hosting](https://firebase.google.com/docs/hosting/) \[免费\]
 
-*   [netlify](https://www.netlify.com) \[$免费\]
+*   [netlify](https://www.netlify.com) \[免费\]
 
     *   [Bitballoon](https://www.bitballoon.com/)
 
-*   [Surge](https://surge.sh/) \[$免费\]
+*   [Surge](https://surge.sh/) \[免费\]
 
 *   [Forge](https://getforge.com/) \[$\]
