@@ -5,13 +5,13 @@
 **一般的SEO工具：**
 
 <!-- draw.io [free to $] -->
-+ [draw.io](https://www.draw.io/) [$免费]
++ [draw.io](https://www.draw.io/) [免费]
 
 <!-- Cacoo [free to $] -->
-+ [Cacoo](https://cacoo.com/) [$免费]
++ [Cacoo](https://cacoo.com/) [免费]
 
 <!-- gliffy [free to $] -->
-+ [gliffy](https://www.gliffy.com/products/online/) [$免费]
++ [gliffy](https://www.gliffy.com/products/online/) [免费]
 
 <!-- sketchboard.io [$] -->
 + [sketchboard.io](https://sketchboard.io/) [$]
