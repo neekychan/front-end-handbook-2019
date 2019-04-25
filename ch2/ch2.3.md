@@ -175,7 +175,7 @@ The JSON Data Interchange Format -->
 
 <!-- Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA) -->
 
-### 网页内容无障碍直男（aka WCAG）& 无障碍的富网络应用程序（aka ARIA）
+### 网页内容无障碍指南（aka WCAG）& 无障碍的富网络应用程序（aka ARIA）
 
 <!-- Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e., unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers).
 
