@@ -1,4 +1,5 @@
-### 3.14 - Learn Accessibility
+<!-- 3.14 - Learn Accessibility -->
+### 3.14 学习辅助功能
 
 > Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e., unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers).
 > 
@@ -14,11 +15,11 @@
 
 *   [9 tips to get bare minimum of web accessibility](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
 *   [Foundations of UX: Accessibility](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) \[观看\]\[付费\]
-*   [How HTML elements are supported by screen readers](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) \[观看\]
-*   [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) \- WAI \[观看\]
-*   [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) \[观看\]\[付费\]
+*   [How HTML elements are supported by screen readers](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) \[阅读\]
+*   [Introduction to Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) \- WAI \[阅读\]
+*   [Universal Design for Web Applications: Web Applications That Reach Everyone](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) \[阅读\]\[付费\]
 *   [Web Accessibility: Getting Started](http://www.pluralsight.com/courses/web-accessibility-getting-started) \[观看\]\[付费\]
-*   [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) \[观看\]\[付费\]
+*   [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) \[阅读\]\[付费\]
 *   [Web Accessibility](https://frontendmasters.com/courses/web-accessibility/) \[观看\]\[付费\]
 *   [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) \[观看\]
 *   [Accessibility by Google](https://www.udacity.com/course/web-accessibility--ud891) \- Udacity course \[观看\]

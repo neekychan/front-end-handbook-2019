@@ -9,19 +9,19 @@
 
 #### Fonts:
 
-*   [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) \[观看\]
-*   [Beautiful Web Type a Showcase of the Best Typefaces from the Google Web Fonts Directory](http://hellohappy.org/beautiful-web-type/) \[观看\]
-*   [Quick Guide to Webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/) \[观看\]
-*   [MDN: Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) \[观看\]
+*   [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) \[阅读\]
+*   [Beautiful Web Type a Showcase of the Best Typefaces from the Google Web Fonts Directory](http://hellohappy.org/beautiful-web-type/) \[阅读\]
+*   [Quick Guide to Webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/) \[阅读\]
+*   [MDN: Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) \[阅读\]
 *   [Responsive Web Typography, v2](https://frontendmasters.com/courses/responsive-typography-v2/) \[观看\]\[付费\]
 *   [Typography for the Web](http://www.pluralsight.com/courses/typography-for-web-1790) \[观看\]\[付费\]
 
 #### Icons:
 
-*   [\[观看\]](https://www.lynda.com/CSS-tutorials/Web-Icons-SVG/502312-2.html) \[观看\]
+*   [\[阅读\]](https://www.lynda.com/CSS-tutorials/Web-Icons-SVG/502312-2.html) \[观看\]
 
 #### Images:
 
-*   [MDN: Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) \[观看\]
-*   [MDN: Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) \[观看\]
-*   [SVG ON THE WEB - A Practical Guide](https://svgontheweb.com/) \[观看\]
+*   [MDN: Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) \[阅读\]
+*   [MDN: Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) \[阅读\]
+*   [SVG ON THE WEB - A Practical Guide](https://svgontheweb.com/) \[阅读\]

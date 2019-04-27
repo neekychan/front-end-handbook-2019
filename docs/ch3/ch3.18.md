@@ -5,6 +5,6 @@ Static site generators, typically written using server side code (i.e., ruby, ph
 
 #### General Learning:
 
-*   [JAMstack](https://jamstack.org/) \[观看\]
-*   [Static Site Generators](http://www.oreilly.com/web-platform/free/static-site-generators.csp) \[观看\]
-*   [Working with Static Sites - Bringing the Power of Simplicity to Modern Sites](https://www.amazon.com/Working-Static-Sites-Bringing-Simplicity/dp/1491960949) \[观看\]\[付费\]
+*   [JAMstack](https://jamstack.org/) \[阅读\]
+*   [Static Site Generators](http://www.oreilly.com/web-platform/free/static-site-generators.csp) \[阅读\]
+*   [Working with Static Sites - Bringing the Power of Simplicity to Modern Sites](https://www.amazon.com/Working-Static-Sites-Bringing-Simplicity/dp/1491960949) \[阅读\]\[付费\]

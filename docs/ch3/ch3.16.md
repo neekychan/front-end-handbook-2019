@@ -11,13 +11,13 @@
 
 #### General Learning:
 
-*   [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=24e8df4722cb62d086d3f8c87f4e17a1&camp=1789&creative=9325) \[观看\]\[付费\]
-*   [json.com](https://www.json.com/) \[观看\]
+*   [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=24e8df4722cb62d086d3f8c87f4e17a1&camp=1789&creative=9325) \[阅读\]\[付费\]
+*   [json.com](https://www.json.com/) \[阅读\]
 *   [What is JSON](https://mijingo.com/lessons/what-is-json/) \[观看\]
 
 #### References/Docs:
 
-*   [json.org](http://json.org/) \[观看\]
+*   [json.org](http://json.org/) \[阅读\]
 
 #### Standards/Specifications:
 

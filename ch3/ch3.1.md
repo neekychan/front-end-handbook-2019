@@ -6,7 +6,7 @@
 
 > *互联网是一个互联计算机网络的全球系统，它使用互联网协议套件（TCP/IP）连接全球数十亿台设备。 它是一个由数百万个本地到全球范围的私人、公共、学术、商业和政府网络组成的网络中的网络，通过广泛的电子、无线和光纤网络技术相互连接。 因特网承载广泛的信息资源和服务，例如互联超文本文档和万维网（WWW）的应用、电子邮件、电话和用于文件共享的对等网络。*
 >
-> *— [维基百科]（https://en.wikipedia.org/wiki/Internet）[中文链接](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91)*
+> *— [维基百科](https://en.wikipedia.org/wiki/Internet) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91)*
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-the-internet-works.jpg)
 
