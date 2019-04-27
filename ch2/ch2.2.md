@@ -20,7 +20,7 @@
 
 <!-- Front-End Web Designer: When the word "Designer" is included in the job title, this will denote that the designer will possess front-end skills (i.e., HTML & CSS) but also professional design (Visual Design and Interaction Design) skills. -->
 
-**前端网页设计师**：当这个头衔包含“设计师”字眼时，这表明设计师需具备前端能力（如：HTML & CSS）但也具备专业的设计能力（视觉设计和交互设计）。
+**前端Web设计师**：当这个头衔包含“设计师”字眼时，这表明设计师需具备前端能力（如：HTML & CSS）但也具备专业的设计能力（视觉设计和交互设计）。
 
 <!-- UI (User Interface) Developer/Engineer: When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills. -->
 

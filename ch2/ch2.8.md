@@ -23,7 +23,7 @@
 <!-- Front-End Job Interview Questions -->
 - [前端职位面试问题集](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
 <!-- Front End Web Development Quiz -->
-- [前端网页开发小测](http://davidshariff.com/quiz/)
+- [前端Web开发小测](http://davidshariff.com/quiz/)
 <!-- Interview Questions for Front-End-Developer -->
 - [前端开发者面试题](http://thatjsdude.com/interview/index.html)
 <!-- The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)) -->

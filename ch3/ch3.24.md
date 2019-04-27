@@ -6,10 +6,10 @@
 
 <!-- In 2015, designer Frances Berriman and Google Chrome engineer Alex Russell coined the term "Progressive Web Apps" to describe apps taking advantage of new features supported by modern browsers, including Service Workers and Web App Manifests, that let users upgrade web apps to be first-class applications in their native OS. -->
 
-> 在2015年，设计师朗西斯·贝里曼(Frances Berriman)和谷歌Chrome工程师亚历克斯·拉塞尔(Alex Russell)创造了”渐进式网页应用“这一术语，用此来描述利用现代浏览器所支持的新特性的应用程序，包括Service Workers和Web App Manifests，让用户将网页应用程序升级为原生操作系统的一等应用程序。
+> 在2015年，设计师朗西斯·贝里曼(Frances Berriman)和Google Chrome工程师亚历克斯·拉塞尔(Alex Russell)创造了”渐进式网页应用“这一术语，用此来描述利用现代浏览器所支持的新特性的应用程序，包括Service Workers和Web App Manifests，让用户将网页应用程序升级为原生操作系统的一等应用程序。
 
 <!-- According to Google Developers, these characteristics are: -->
-> 依据谷歌开发者的介绍，这些特性是：
+> 依据Google开发者的介绍，这些特性是：
 
 <!-- Progressive - Work for every user, regardless of browser choice because they’re built with progressive enhancement as a core tenet.
 Responsive - Fit any form factor: desktop, mobile, tablet, or forms yet to emerge.
