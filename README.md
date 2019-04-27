@@ -1,5 +1,7 @@
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/FM_2019Cover_final.jpg)
 
+[原文地址](https://frontendmasters.com/books/front-end-handbook/2019/)
+
 # 概要
 这是一份所有人能够用于学习前端开发实践的指南。这概述和讨论了前端工程的实践：在2019年的实践过程中，该如何学习和使用什么样的工具。
 他专门为潜在或当前已正在实践的前端开发者准备的学习资料和开发工具，且意图成为专业资源而编写的。其次，这也可以被项目经理、技术总监、讲师还有猎头们用于获得对前端开发实践的认识。
