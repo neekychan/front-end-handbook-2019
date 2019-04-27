@@ -39,15 +39,15 @@
 
 #### 浏览器的托管测试和自动化：
 
-*   [Browserling](https://www.browserling.com/) \[$\]
+*   [Browserling](https://www.browserling.com/) \[付费\]
 
-*   [BrowserStack](https://www.browserstack.com) \[$\]
+*   [BrowserStack](https://www.browserstack.com) \[付费\]
 
-*   [CrossBrowserTesting.com](http://crossbrowsertesting.com/) \[$\]
+*   [CrossBrowserTesting.com](http://crossbrowsertesting.com/) \[付费\]
 
 *   [Nightcloud.io](http://nightcloud.io/)
 
-*   [Sauce Labs](https://saucelabs.com/) \[$\]
+*   [Sauce Labs](https://saucelabs.com/) \[付费\]
 
 #### 集成和功能测试：
 

@@ -11,10 +11,10 @@ Image source: [https://visual.ly/community/infographic/computers/how-does-seo-wo
 
 #### General Learning:
 
-*   [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) \[read\]
-*   [Modern SEO](https://frontendmasters.com/courses/modern-seo/) \[watch\]\[$\]
-*   [SEO Fundamentals From David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) \[watch\]\[$\]
-*   [SEO Fundamentals From Paul Wilson](http://www.pluralsight.com/courses/seo-fundamentals) \[watch\]\[$\]
-*   [SEO Tutorial For Beginners in 2016](http://www.hobo-web.co.uk/seo-tutorial/) \[read\]
-*   [SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers) \[watch\]\[$\]
+*   [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) \[阅读\]
+*   [Modern SEO](https://frontendmasters.com/courses/modern-seo/) \[观看\]\[付费\]
+*   [SEO Fundamentals From David Booth](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) \[观看\]\[付费\]
+*   [SEO Fundamentals From Paul Wilson](http://www.pluralsight.com/courses/seo-fundamentals) \[观看\]\[付费\]
+*   [SEO Tutorial For Beginners in 2016](http://www.hobo-web.co.uk/seo-tutorial/) \[阅读\]
+*   [SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers) \[观看\]\[付费\]
 

@@ -26,7 +26,7 @@
 
 #### 用户管理服务：
 
-*   [Auth0](https://auth0.com) \[$\]
+*   [Auth0](https://auth0.com) \[付费\]
 
 *   [AuthRocket](https://authrocket.com)
 

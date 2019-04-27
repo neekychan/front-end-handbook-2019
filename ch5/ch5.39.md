@@ -1,6 +1,6 @@
 ### 5.39 部署工具
 
-*   [Bamboo](https://www.atlassian.com/software/bamboo/) \[$\]
+*   [Bamboo](https://www.atlassian.com/software/bamboo/) \[付费\]
 
 *   [Buddy](https://buddy.works/) \[免费\]
 

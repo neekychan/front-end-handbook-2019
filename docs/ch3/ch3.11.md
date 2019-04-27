@@ -17,21 +17,21 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 
 #### General Learning:
 
-*   [The Document Object Model](http://eloquentjavascript.net/13_dom.html) \[read\]
-*   [HTML/JS: Making Webpages Interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) \[watch\]
-*   [HTML/JS: Making Webpages Interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) \[watch\]
-*   [jQuery Enlightenment](http://jqueryenlightenment.com/) \[read\]
-*   [What is the DOM?](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) \[read\]
+*   [The Document Object Model](http://eloquentjavascript.net/13_dom.html) \[观看\]
+*   [HTML/JS: Making Webpages Interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) \[观看\]
+*   [HTML/JS: Making Webpages Interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) \[观看\]
+*   [jQuery Enlightenment](http://jqueryenlightenment.com/) \[观看\]
+*   [What is the DOM?](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) \[观看\]
 
 #### Mastering:
 
-*   [AdvancED DOM Scripting: Dynamic Web Design Techniques](http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590598563&linkCode=as2&tag=fronenddevejo-20&linkId=VQZU5EQIQQXCF56Y) \[read\]\[$\]
-*   [Advanced JS Fundamentals to jQuery & Pure DOM Scripting](https://frontendmasters.com/courses/javascript-jquery-dom/) \[watch\]\[$\]
-*   [Douglas Crockford: An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) \[watch\]
-*   [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) \[read\]\[$\] or [read online for free](http://domenlightenment.com/)
-*   [Fixing Common jQuery Bugs](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) \[watch\]\[$\]
-*   [jQuery-Free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) \[watch\]\[$\]
-*   [jQuery Tips and Tricks](http://www.pluralsight.com/courses/jquery-tips-and-tricks) \[watch\]\[$\]
+*   [AdvancED DOM Scripting: Dynamic Web Design Techniques](http://www.amazon.com/gp/product/1590598563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590598563&linkCode=as2&tag=fronenddevejo-20&linkId=VQZU5EQIQQXCF56Y) \[观看\]\[付费\]
+*   [Advanced JS Fundamentals to jQuery & Pure DOM Scripting](https://frontendmasters.com/courses/javascript-jquery-dom/) \[观看\]\[付费\]
+*   [Douglas Crockford: An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs&list=PL5586336C26BDB324&index=2) \[观看\]
+*   [DOM Enlightenment](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) \[观看\]\[付费\] or [read online for free](http://domenlightenment.com/)
+*   [Fixing Common jQuery Bugs](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) \[观看\]\[付费\]
+*   [jQuery-Free JavaScript](http://www.pluralsight.com/courses/jquery-free-javascript) \[观看\]\[付费\]
+*   [jQuery Tips and Tricks](http://www.pluralsight.com/courses/jquery-tips-and-tricks) \[观看\]\[付费\]
 
 #### References/Docs:
 
