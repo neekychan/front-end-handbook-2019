@@ -31,15 +31,15 @@
 
 这些解决方案通常使用[Cordova](https://cordova.apache.org/)、[crosswalk](https://crosswalk-project.org/)或者自定义WebView作为到原生API的桥梁。
 
-*   [Adobe PhoneGap](http://phonegap.com/) \[$\]
+*   [Adobe PhoneGap](http://phonegap.com/) \[付费\]
 
 *   [cocoon.io](https://cocoon.io) \[免费\]
 
 *   [ionic hub](http://ionic.io/) \[免费\]
 
-*   [kony](http://www.kony.com/products/mobility-platform) \[$\]
+*   [kony](http://www.kony.com/products/mobility-platform) \[付费\]
 
-*   [Monaca](https://monaca.io/) \[$\]
+*   [Monaca](https://monaca.io/) \[付费\]
 
 #### 原生桌面应用程序框架:
 
@@ -66,7 +66,7 @@
 
 *   [tabris.js](https://tabrisjs.com/) \[免费\]
 
-*   [trigger.io](https://trigger.io/how-it-works/) \[$\]
+*   [trigger.io](https://trigger.io/how-it-works/) \[付费\]
 
 *   [weex](https://weex.apache.org/)
 
@@ -84,7 +84,7 @@
 
 *   [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
 
-*   [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[read\]
+*   [Front-End Performance Checklist 2019 \[PDF, Apple Pages, MS Word\]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/) \[阅读\]
 
 <!-- If you are new to front-end/JavaScript application development I'd start with Vue.js. Then I'd work my way to React. Then I'd look at Angular 2+, Ember, or Aurelia. -->
 如果您是前端JavaScript应用程序开发新手，我建议从[Vue.js](http://vuejs.org/)开始。然后我会把[React](http://facebook.github.io/react/)应用到工作中。然后我也会学习 [Angular 2+](https://angular.io/), [Ember](http://emberjs.com/), or [Aurelia](http://aurelia.io/)。

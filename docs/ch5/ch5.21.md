@@ -12,7 +12,7 @@
 
 *   [UiKit](https://getuikit.com/)
 
-*   [Webix](http://webix.com/) \[$\]
+*   [Webix](http://webix.com/) \[付费\]
 
 #### React Specific，Web平台：
 
@@ -22,7 +22,7 @@
 
 *   [Semantic-UI-React](https://react.semantic-ui.com/)
 
-*   [ExtReact](https://www.sencha.com/products/extreact/#app) \[$\]
+*   [ExtReact](https://www.sencha.com/products/extreact/#app) \[付费\]
 
 *   [Fabric](https://developer.microsoft.com/en-us/fabric)
 

@@ -136,35 +136,35 @@
 
 #### CSS架构设计：
 
-*   [Atomic Design](http://atomicdesign.bradfrost.com/) \[read\]
+*   [Atomic Design](http://atomicdesign.bradfrost.com/) \[阅读\]
 *   [BEM](http://getbem.com/introduction/)
 *   [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
-*   [OOCSS](http://oocss.org/) \[read\]
-*   [SMACSS](https://smacss.com/) \[read\]\[$\]
-    *   [Scalable Modular Architecture for CSS (SMACSS)](https://frontendmasters.com/courses/smacss/) \[watch\]\[$\]
+*   [OOCSS](http://oocss.org/) \[阅读\]
+*   [SMACSS](https://smacss.com/) \[阅读\]\[付费\]
+    *   [Scalable Modular Architecture for CSS (SMACSS)](https://frontendmasters.com/courses/smacss/) \[观看\]\[付费\]
 *   [SUIT CSS](http://suitcss.github.io)
 *   [rscss](http://rscss.io/)
 
 <!-- Authoring/Architecting Conventions: -->
 #### 编辑和框架约定：
 
-*   [CSS代码指南](http://codeguide.co/#css) \[read\]
+*   [CSS代码指南](http://codeguide.co/#css) \[阅读\]
 
-*   [CSS框架](https://github.com/jareware/css-architecture) \[read\]
+*   [CSS框架](https://github.com/jareware/css-architecture) \[阅读\]
 
-*   [cssguidelin.es](http://cssguidelin.es/) \[read\]
+*   [cssguidelin.es](http://cssguidelin.es/) \[阅读\]
 
-*   [常用的CSS](https://github.com/necolas/idiomatic-css) \[read\]
+*   [常用的CSS](https://github.com/necolas/idiomatic-css) \[阅读\]
 
-*   [MaintainableCSS](http://maintainablecss.com/) \[read\]
+*   [MaintainableCSS](http://maintainablecss.com/) \[阅读\]
 
-*   [HTML和CSS灵活开发、持久和可持续的标准](http://mdo.github.io/code-guide/) \[read\]
+*   [HTML和CSS灵活开发、持久和可持续的标准](http://mdo.github.io/code-guide/) \[阅读\]
 
-*   [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) \[read\]
+*   [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) \[阅读\]
 
 #### 风格指南资源：
 
-*   [Frontify](https://frontify.com/) \[$\]
+*   [Frontify](https://frontify.com/) \[付费\]
 
 *   [SC5 STYLE GUIDE GENERATOR](http://styleguide.sc5.io/)
 

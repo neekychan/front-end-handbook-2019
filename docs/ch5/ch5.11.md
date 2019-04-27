@@ -123,7 +123,7 @@
 <!-- Visualization, Static Analysis, Complexity, Coverage Tools: -->
 #### 可视化、静态分析、复杂度、覆盖工具：
 
-*   [Coveralls](https://coveralls.io/) \[$\]
+*   [Coveralls](https://coveralls.io/) \[付费\]
 
 *   [Esprima](http://esprima.org/)
 
@@ -143,7 +143,7 @@
 
 *   [Javascript Obfuscator](http://www.javascriptobfuscator.com/) \[免费\]
 
-*   [JScrambler](https://jscrambler.com/) \[$\]
+*   [JScrambler](https://jscrambler.com/) \[付费\]
 
 #### 可分享和可运行的代码编辑器:
 

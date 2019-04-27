@@ -2,7 +2,7 @@
 
 #### 无头内容管理系统工具:
 
-*   [Contentful](https://www.contentful.com/) \[$\]
+*   [Contentful](https://www.contentful.com/) \[付费\]
 
 *   [prismic.io](https://prismic.io/) \[免费\]
 
@@ -16,9 +16,9 @@
 
 #### 托管内容管理系统:
 
-*   [LightCMS](https://www.lightcms.com) \[$\]
+*   [LightCMS](https://www.lightcms.com) \[付费\]
 
-*   [Surreal CMS](http://www.surrealcms.com/) \[$\]
+*   [Surreal CMS](http://www.surrealcms.com/) \[付费\]
 
 #### 静态的内容管理系统工具:
 

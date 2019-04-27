@@ -11,4 +11,4 @@
 
 *   [New Relic](http://newrelic.com/)
 
-*   [Uptrends](https://www.uptrends.com/) \[$\]
+*   [Uptrends](https://www.uptrends.com/) \[付费\]

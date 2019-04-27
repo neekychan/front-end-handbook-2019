@@ -4,10 +4,10 @@
 
 *   [Bitbucket](https://bitbucket.org) \[免费\]
 
-*   [Codebase](https://www.codebasehq.com/) \[$\]
+*   [Codebase](https://www.codebasehq.com/) \[付费\]
 
 *   [Github](https://github.com/) \[免费\]
 
 *   [GitLab](https://about.gitlab.com/) \[免费\]
 
-*   [Unfuddle](https://unfuddle.com/) \[$\]
+*   [Unfuddle](https://unfuddle.com/) \[付费\]

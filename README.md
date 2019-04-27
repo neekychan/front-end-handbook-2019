@@ -2,8 +2,12 @@
 # 前端开发者手册2019
 ## [Cody Lindley](http://codylindley.com/)编著
 
-### 概要
 <!-- This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019. -->
+[原文地址](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+翻译：neekychan & freedom
+
+### 概要
 这是一份所有人能够用于学习前端开发实践的指南。这概述和讨论了前端工程的实践：在2019年的实践过程中，该如何学习和使用什么样的工具。
 <!-- It is specifically written with the intention of being a professional resource for potential and currently practicing front-end developers to equip themselves with learning materials and development tools. Secondarily, it can be used by managers, CTOs, instructors, and head hunters to gain insights into the practice of front-end development. -->
 它的目的是为目前和以后准备从事前端开发的开发者们提供专业的资源，帮助他们提供学习资料和开发工具。其次，它可以帮助管理人员，CTO，讲师或者猎头们了解前端的开发实践。

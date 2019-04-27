@@ -2,11 +2,11 @@
 
 #### 一般的
 
-*   [AWS](https://aws.amazon.com/websites/) \[$\]
+*   [AWS](https://aws.amazon.com/websites/) \[付费\]
 
-*   [DigitalOcean](https://digitalocean.com) \[$\]
+*   [DigitalOcean](https://digitalocean.com) \[付费\]
 
-*   [WebFaction](https://www.webfaction.com/) \[$\]
+*   [WebFaction](https://www.webfaction.com/) \[付费\]
 
 #### 静态的
 
@@ -18,4 +18,4 @@
 
 *   [Surge](https://surge.sh/) \[免费\]
 
-*   [Forge](https://getforge.com/) \[$\]
+*   [Forge](https://getforge.com/) \[付费\]

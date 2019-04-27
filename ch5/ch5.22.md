@@ -20,7 +20,7 @@
 
 *   [Epoch](http://epochjs.github.io/epoch/)
 
-*   [FusionCharts](http://www.fusioncharts.com/) \[$\]
+*   [FusionCharts](http://www.fusioncharts.com/) \[付费\]
 
 *   [Google Charts](https://developers.google.com/chart/interactive/docs/)
 
