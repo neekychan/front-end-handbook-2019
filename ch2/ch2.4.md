@@ -11,7 +11,7 @@ Image source: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-devel
 除了刚刚提到的技能，一个前端开发者可能特别擅长以下一个或多个技技能：
 
 <!-- Content Management Systems (aka CMS) -->
-- 内容管理系统(亦称CMS)
+- 内容管理系统(CMS)
 <!-- Node.js -->
 - Node.js
 <!-- Cross-Browser Testing -->
@@ -25,7 +25,7 @@ Image source: http://blog.naustud.io/2015/06/baseline-for-modern-front-end-devel
 <!-- Accessibility / WAI-ARIA -->
 - 可接入性 / WAI-ARIA
 <!-- Search Engine Optimization (aka SEO) -->
-- 搜索引擎优化（亦称 SEO）
+- 搜索引擎优化（SEO）
 <!-- Interaction or User Interface Design -->
 - 交互或用户界面设计
 <!-- User Experience -->
@@ -63,7 +63,7 @@ Data APIs (e.g Restful API)
 <!-- Web Font Embedding -->
 - 网页字体嵌入
 <!-- Scalable Vector Graphics (aka SVG) -->
-- 矢量图形 （亦称 SVG）
+- 矢量图形（SVG）
 <!-- Regular Expressions -->
 - 正则表达式
 <!-- Microdata / Microformats -->
@@ -72,7 +72,7 @@ Data APIs (e.g Restful API)
 - 任务运行器，构建工具，自动化进程工具
 <!-- Responsive Web Design -->
 - 响应式网页设计
-Object-Oriented Programming
+<!-- Object-Oriented Programming -->
 - 面向对象编程
 <!-- Application Architecture -->
 - 应用程序架构

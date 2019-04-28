@@ -11,7 +11,8 @@ ES modules: A cartoon deep-dive [read] -->
 - [深入ES6模块](https://ponyfoo.com/articles/es6-modules-in-depth) [阅读]
 - [探索JS - 模块](http://exploringjs.com/es6/ch_modules.html#ch_modules) [阅读]
 - [漫话ES模块](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/) [阅读]
-#### 规范/文档
+
+#### 参考文献与文档：
 <!-- MDN - export
 MDN - import -->
 - [MDN - 导出](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)

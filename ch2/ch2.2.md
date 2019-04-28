@@ -14,7 +14,7 @@
 
 <!-- Front-End Engineer (aka JavaScript Developer or Full-stack JavaScript Developer): The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires computer science knowledge and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end software applications). -->
 
-**前端工程师（也叫做JavaScript开发者或全栈JavaScript开发者）**：这个头衔给来自计算机科学，工程学，背景，且能使用这些技术进行前端工作的开发者。这种角色一般要求具备计算机科学知识和多年的软件开发经验。当头衔中包含“JavaScript应用程序”时，这表明需要开发者能成为高级的JavaScript开发者，且具备进行高级的编程，软件开发和应用开发的能力。（也就是拥有多年构建前端软件应用的经验）
+**前端工程师（JavaScript开发者或全栈JavaScript开发者）**：这个头衔给来自计算机科学，工程学，背景，且能使用这些技术进行前端工作的开发者。这种角色一般要求具备计算机科学知识和多年的软件开发经验。当头衔中包含“JavaScript应用程序”时，这表明需要开发者能成为高级的JavaScript开发者，且具备进行高级的编程，软件开发和应用开发的能力。（也就是拥有多年构建前端软件应用的经验）
 <!-- CSS/HTML Developer: The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and application, know how. -->
 **CSS/HTML开发者**：这个前端头衔描述了开发者对HTML和CSS具有一定熟练度，但除了JavaScript和应用程序之外。
 

@@ -10,11 +10,14 @@
 
 <!-- General Learning: -->
 #### 基础学习：
-Getting Started with Gulp [read][$]
+<!-- Getting Started with Gulp [read][$]
 Gulp Basics [watch][$]
-JavaScript Build Automation With Gulp.js [watch][$]
+JavaScript Build Automation With Gulp.js [watch][$] -->
+- [从Gulp开始]
+- [Gulp基础]
+- [JavaScript使用Gulp.js构建自动化]
 <!-- References/Docs: -->
-#### 规范/文档：
+#### 参考文献与文档：
 - [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 <!-- Gulp is great. However, you might only need npm run. Before turning to additional complexity in your application stack ask yourself if npm run can do the job. If you need more, use Gulp. -->
 Gulp是伟大的。然而，你应该只需要npm跑起来。在转向你应用程序栈的额外复杂性之前，你应该问一下自己，npm是否可以完成这样工作。如果你需要更多，使用Gulp。

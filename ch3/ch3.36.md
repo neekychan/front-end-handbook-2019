@@ -15,4 +15,4 @@
 <!-- Getting Started with Headless Chrome [readme] -->
 - [开始使用Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)[自述文件]
 <!-- PhantomJS is no longer maintained, Headless Chrome steps in. -->
-[PhantomJS已不再维护](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain)，[Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)接棒。
+[PhantomJS已不再维护](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain)，并由[Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)接棒。

@@ -32,7 +32,7 @@ Learn Git Branching [interact] -->
 - [学习Git分支](http://learngitbranching.js.org/)[互动]
 
 <!-- References/Docs: -->
-#### 指南/文档：
+#### 参考文献与文档：
 <!-- https://git-scm.com/doc -->
 - [https://git-scm.com/doc](https://git-scm.com/doc)
 <!-- git-cheatsheet -->

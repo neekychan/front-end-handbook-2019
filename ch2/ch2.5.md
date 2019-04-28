@@ -2,7 +2,7 @@
 # 2.5 前端开发者对...开发
 <!-- A front-end developer crafts HTML, CSS, and JS that typically runs on the web platform (e.g. a web browser) delivered from one of the following operating systems (aka OSs): -->
 
-前端开发者使用HTLM，CSS和JS，通常运行在以下操作系统的[网页平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)上：
+前端开发者使用HTLM，CSS和JS，通常运行在以下操作系统(OSs)的[网页平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)上：
 
 <!-- Android -->
 - [Android](https://www.android.com/)

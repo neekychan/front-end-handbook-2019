@@ -1,5 +1,5 @@
 <!-- 3.23 - Learn Application State Management -->
-# 学习应用程序状态管理
+# 3.23 - 学习应用程序状态管理
 <!-- State management in JavaScript [read] -->
 - [JavaScript的状态管理](https://codeburst.io/state-management-in-javascript-15d0d98837e1) [阅读]
 <!-- Advanced State Management in React (feat. Redux and MobX) [watch][$] -->
