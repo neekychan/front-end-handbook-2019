@@ -1,5 +1,5 @@
 <!-- 3.26 - Learn Browser Web Developer Tools -->
-# 3.26 学习浏览器网页开发者工具
+# 3.26 - 学习浏览器网页开发者工具
 <!-- Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application. -->
 
 

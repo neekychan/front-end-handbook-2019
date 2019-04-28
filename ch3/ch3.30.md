@@ -1,5 +1,5 @@
 <!-- 3.30 - Learn Module loaders/bundlers -->
-# 3.30 - 学习Module loaders/bunlders
+# 3.30 - 学习Module Loaders/Bundlers
 ### Webpack:
 <!-- Webpack [read]
 Webpack 4 Fundamentals [watch][$]
