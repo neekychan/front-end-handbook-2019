@@ -9,30 +9,30 @@
 Git是现今最常见用于版本控制解决方案。学习它！
 
 <!-- General Learning: -->
-### 基础学习：
+#### 基础学习：
 <!-- Getting Git Right [read] -->
 <!-- Git Fundamentals [watch][$] -->
 <!-- learn Enough Git [read] -->
 <!-- Ry's Git Tutorial [read] -->
-- [正确使用Git](https://www.atlassian.com/git/)[阅读]
-- [Git基础原理](http://www.pluralsight.com/courses/git-fundamentals)[观看][收费]
-- [充分学习Git](https://www.learnenough.com/git-tutorial)[阅读]
-- [Ry的Git教程](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC)[阅读]
+- [正确使用Git](https://www.atlassian.com/git/) [阅读]
+- [Git基础原理](http://www.pluralsight.com/courses/git-fundamentals) [观看][收费]
+- [充分学习Git](https://www.learnenough.com/git-tutorial) [阅读]
+- [Ry的Git教程](https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC) [阅读]
 
 <!-- Mastering: -->
-### 进阶学习：
+#### 进阶学习：
 <!-- Git In-depth [watch][$]
 Advanced Git Tutorials [read]
 Pro Git [read]
 Learn Git Branching [interact] -->
 
-- [深入Git](https://frontendmasters.com/courses/git-in-depth/)[观看][付费]
-- [Git高级教程](https://www.atlassian.com/git/tutorials/advanced-overview/)[阅读]
-- [专业Git](http://git-scm.com/book/en/v2)[阅读]
+- [深入Git](https://frontendmasters.com/courses/git-in-depth/) [观看][付费]
+- [Git高级教程](https://www.atlassian.com/git/tutorials/advanced-overview/) [阅读]
+- [专业Git](http://git-scm.com/book/en/v2) [阅读]
 - [学习Git分支](http://learngitbranching.js.org/)[互动]
 
 <!-- References/Docs: -->
-### 指南/文档：
+#### 指南/文档：
 <!-- https://git-scm.com/doc -->
 - [https://git-scm.com/doc](https://git-scm.com/doc)
 <!-- git-cheatsheet -->
