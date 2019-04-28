@@ -44,10 +44,10 @@
 + [Atom](https://atom.io/)
 
 <!-- Sublime Text [$] -->
-+ [Sublime Text](http://www.sublimetext.com/) [$]
++ [Sublime Text](http://www.sublimetext.com/) [付费]
 
 <!-- WebStorm [$] -->
-+ [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [$]
++ [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [付费]
 
 <!-- Visual Studio Code -->
 + [Visual Studio Code](https://code.visualstudio.com/)
@@ -59,7 +59,7 @@
 + [PaizaCloud](https://paiza.cloud/) [免费]
 
 <!-- AWS Cloud9 [$] -->
-+ [AWS Cloud9](https://aws.amazon.com/cloud9/) [$]
++ [AWS Cloud9](https://aws.amazon.com/cloud9/) [付费]
 
 <!-- Codeanywhere [free to $] -->
 + [Codeanywhere](https://codeanywhere.com/) [免费]

@@ -5,19 +5,19 @@
 **创建：**
 
 <!-- Axure [$] -->
-+ [Axure](http://www.axure.com/) [$]
++ [Axure](http://www.axure.com/) [付费]
 
 <!-- Balsamiq Mockups [$] -->
-+ [Balsamiq Mockups](https://balsamiq.com/) [$]
++ [Balsamiq Mockups](https://balsamiq.com/) [付费]
 
 <!-- Justinmind [$] -->
-+ [Justinmind](http://www.justinmind.com/) [$]
++ [Justinmind](http://www.justinmind.com/) [付费]
 
 <!-- Moqups [$] -->
-+ [Moqups](https://moqups.com/) [$]
++ [Moqups](https://moqups.com/) [付费]
 
 <!-- proto.io [$] -->
-+ [proto.io](https://proto.io/) [$]
++ [proto.io](https://proto.io/) [付费]
 
 <!-- UXPin [free to $] -->
 + [UXPin](http://www.uxpin.com/) [免费]
@@ -32,7 +32,7 @@
 + [Conceptboard](https://conceptboard.com/) [免费]
 
 <!-- myBalsamiq [$] -->
-+ [myBalsamiq](https://balsamiq.cloud/) [$]
++ [myBalsamiq](https://balsamiq.cloud/) [付费]
 
 <!-- Marvel [free to $] -->
 + [Marvel](https://marvelapp.com/) [免费]
