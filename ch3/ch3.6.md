@@ -9,7 +9,7 @@
 
 *   [成为Web开发](http://www.yellowshoe.com.au/standards) \[阅读\]
 
-*   [freeCodeCamp](http://freecodecamp.com/) \[交流\]
+*   [freeCodeCamp](http://freecodecamp.com/) \[互动\]
 
     *   [学习前端开发100天 \[阅读\]](https://github.com/nas5w/100-days-of-code-frontend#contibuting)
 
@@ -29,7 +29,7 @@
 
 *   [那么，你想成为一名前端工程师吗](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[观看\]
 
-*   [codecademy.com: 学习Web开发路线](https://www.codecademy.com/learn/paths/web-development) \[交流\]\[免费\]
+*   [codecademy.com: 学习Web开发路线](https://www.codecademy.com/learn/paths/web-development) \[互动\]\[免费\]
 
 *   [web.dev](https://web.dev/learn) \[阅读\]
 

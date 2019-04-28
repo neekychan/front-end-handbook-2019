@@ -42,7 +42,7 @@
 
 *   [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[阅读\]
 *   [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/) \[观看\]\[付费\]
-*   [CSS Diner](http://flukeout.github.io/) \[interact\]
+*   [CSS Diner](http://flukeout.github.io/) \[互动\]
 *   [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/) \[阅读\]
 *   [CSS Secrets: Better Solutions to Everyday Web Design Problems](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) \[阅读\]\[付费\]
 *   [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) \[阅读\]
