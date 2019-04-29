@@ -1,5 +1,5 @@
 <!-- # 2.8 - Front-End Interviews -->
-# 2.8 前端面试
+# 2.8 - 前端面试
 <!-- Preparing: -->
 ### 准备：
 <!-- Preparing for a Front-End Web Development Interview in 2017 -->
@@ -29,6 +29,6 @@
 <!-- The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)) -->
 - [最佳前端JavaScript面试题集（一位前端工程师所写）](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer))
 <!-- Questions you may get asked: -->
-### 你的提问:
+### 你的疑问:
 <!-- An open source list of developer questions to ask prospective employers -->
 - [一份开源的开发者可向未来老板提的问题列表](https://github.com/ChiperSoft/InterviewThis)

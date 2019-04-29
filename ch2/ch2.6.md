@@ -1,5 +1,5 @@
 <!-- 2.6 - Front-End on a Team -->
-# 2.6 团队里的前端
+# 2.6 - 团队里的前端
 <!-- A front-end developer is typically only one player on a team that designs and develops web sites, web applications, or native applications running from web technologies. -->
 
 前端开发者通常是团队中唯一一人，既要设计又要开发网站、网页应用或使用网页技术的原生应用的角色。

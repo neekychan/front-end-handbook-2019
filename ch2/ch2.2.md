@@ -1,12 +1,12 @@
 <!-- 2.2 - Front-End Job Titles -->
-# 2.2 前端头衔
+# 2.2 - 前端职称
 <!-- A great divide has been brewing in the front-end developer space for several years between two very different types of so-called front-end developers. On the one side, you have JavaScript-focused programmers who write JavaScript for front-end runtimes that likely have computer science skills with a software development history. They more than likely view HTML and CSS as an abstraction (i.e. JSX and CSS in JS). On the other side, you have, most likely, non-computer science educated developers who focus on HTML, CSS, and JavaScript as it specifically pertains to the UI. In 2019, when entering or trying to understand the front-end developer space you will absolutely feel this divide. The term front-end developer is on the verge of meaninglessness without clarifying words to address what type of front-end developer is being discussed. -->
 
-[最近几年内，在两种非常不同类型的所谓前端开发者之间，前端领域一直酝酿着的一个巨大分水岭](https://css-tricks.com/the-great-divide/)。在一方面，你拥有专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发史。他们更可能视HTML和CSS为一种抽象。（如JSX和CSS in JS）另一方面，你拥有最可能接受非计算机科学教育的开发者，他们专注于HTML，CSS和JavaScript，这些特别地与UI相关。在2019年，当进入或尝试明白前端开发者领域，你能绝对能感受到这分水岭。前端开发者这个词没有明确的定义，没有明确说明现在讨论的是哪种类型的前端开发者。
+[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在巨大分歧](https://css-tricks.com/the-great-divide/)。在一方面，你拥有专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发史。他们更可能视HTML和CSS为一种抽象。（如[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）另一方面，你拥有最可能接受非计算机科学教育的开发者，他们专注于HTML，CSS和JavaScript，这些特别地与UI相关。在2019年，当进入或尝试明白前端开发者领域，你能绝对能感受到这分水岭。前端开发者这个词没有明确的定义，没有明确说明现在讨论的是哪种类型的前端开发者。
 
 <!-- Below is a list and description of various front-end job titles (Keep in mind titles are hard). The common, or most used (i.e., generic), title for a front-end developer is, "front-end developer" or "front-end engineer". Note that any job that contains the word "front-end", "client-side", "web UI", "HTML", "CSS", or "JavaScript" typically infers that a person has some degree of HTML, CSS, DOM, and JavaScript professional know how. -->
 
-以下是一个描述各种前端头衔的列表（记住头衔是很难的）。最常用的前端开发者头衔是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“web UI”，“HTML”，“CSS”或“JavaScript”字眼的职位，通常是指拥有HTML，CSS，DOM和JavaScript有一定程度了解的人。
+以下是一个描述各种前端头衔的列表（记住职称是[很难的](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)）。最常用的前端开发者头衔是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“web UI”，“HTML”，“CSS”或“JavaScript”字眼的职位，通常是指拥有HTML，CSS，DOM和JavaScript有一定程度了解的人。
 
 <!-- Front-End Developer: The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform. -->
 
@@ -51,6 +51,7 @@
 If you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used by an employer to describe a role that is responsible for all aspects of web/app development, i.e., both front-end (potentially including design) and back-end. -->
 
 > 备注：
-> 如果你能在职衔中遇到“全栈”或“网页开发者”这些字眼，被雇主用于描述负责网页/应用开发的各个方面的角色。例如，前端（可能包括设计）和后端。
+>
+> 1、如果你能在职衔中遇到“全栈”或“网页开发者”这些字眼，被雇主用于描述负责网页/应用开发的各个方面的角色。例如，前端（可能包括设计）和后端。
 
 
