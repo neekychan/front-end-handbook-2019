@@ -51,19 +51,19 @@ Learn Node.js
 举个例子，如果你从今天就开始，以下有几个自学的资源供你选择：
 
 <!-- Getting started with the Web [read] -->
-- [从Web开始](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)[阅读]
+- [从Web开始](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) [阅读]
 <!-- So, You Want to be a Front-End Engineer [watch] -->
-- [那么，你想成为一名前端工程师](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)[观看]
+- [那么，你想成为一名前端工程师](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) [观看]
 <!-- Frontend Masters Learning Paths [watch][$] -->
-- [前端大师学习之路](https://frontendmasters.com/learn)[观看][付费]
+- [前端大师学习之路](https://frontendmasters.com/learn) [观看][付费]
 <!-- Introduction to Web Development [watch][$] -->
-- [网页开发介绍](https://frontendmasters.com/courses/web-development-v2/)[观看][付费]
+- [Web开发介绍](https://frontendmasters.com/courses/web-development-v2/) [观看][付费]
 <!-- Treehouse Techdegree [watch][$] -->
-- [Treehouse Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development-2)[观看][付费]
+- [Treehouse Techdegree](https://teamtreehouse.com/techdegree/front-end-web-development-2) [观看][付费]
 <!-- Front-End Web Developer Nanodegree [watch][$] -->
-- [前端网页开发者Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)[观看][付费]
+- [前端Web开发者Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [观看][付费]
 <!-- Become a Front-End Web Developer [watch][$] -->
-- [成为前端网页开发者](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer)[观看][付费]
+- [成为前端Web开发者](https://www.lynda.com/learning-paths/Web/become-a-front-end-web-developer) [观看][付费]
 <!-- freeCodeCamp [interactive][watch] -->
 - [免费代码营地](https://learn.freecodecamp.org/)[交互式][观看]
 

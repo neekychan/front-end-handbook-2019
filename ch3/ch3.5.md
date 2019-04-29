@@ -7,7 +7,7 @@
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Web_hosting_service) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%89%98%E7%AE%A1%E6%9C%8D%E5%8A%A1)*
 
-#### 常规学习：
+#### 基础学习：
 
 * [Web托管101: 让你的网站一直在网络上运行](https://www.udemy.com/web-hosting-101/) \[视频\]
 

@@ -94,15 +94,15 @@
 
 + [Browserling](https://www.browserling.com/) [免费]
 
-+ [BrowserStack](https://www.browserstack.com/) [$]
++ [BrowserStack](https://www.browserstack.com/) [付费]
 
-+ [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
++ [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [付费]
 
 + [Ghost Inspector](https://ghostinspector.com/) [免费]
 
 + [Nightcloud.io](http://nightcloud.io/)
 
-+ [Sauce Labs](https://saucelabs.com/) [$]
++ [Sauce Labs](https://saucelabs.com/) [付费]
 
 <!-- Headless Browsers: -->
 **Headless浏览器:**

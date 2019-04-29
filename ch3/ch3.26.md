@@ -1,5 +1,5 @@
 <!-- 3.26 - Learn Browser Web Developer Tools -->
-# 3.26 学习浏览器网页开发者工具
+# 3.26 - 学习浏览器网页开发者工具
 <!-- Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application. -->
 
 
@@ -19,7 +19,7 @@
 我建议学习和使用[Chrome网页开发者工具](https://developers.google.com/web/tools/chrome-devtools/)，简单而言，因为最好的网页开发者工具学习资源都是以Chrome DevTools而展开的。
 
 <!-- Learn Chrome Web Developer Tools: -->
-###  学习Chrome网页开发工具：
+#### 学习Chrome网页开发工具：
 <!-- Chrome Developer Tools [watch][$]
 Explore and Master Chrome DevTools [watch]
 Mastering Chrome Developer Tools v2 [watch][$]
@@ -38,7 +38,7 @@ Configure and Customize DevTools
 - [使用Chrome开发者工具v2](http://www.pluralsight.com/courses/chrome-developer-tools)
 - [学习掌握Chrome开发者工具](https://www.lynda.com/Chrome-tutorials/Learning-Chrome-Web-Developer-Tools/590844-2.html)
 
-### Chrome开发者工具文档：
+#### Chrome开发者工具文档：
 - [Command Line API参考](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 - [键盘&UI快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
 - [Per-Panel文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
