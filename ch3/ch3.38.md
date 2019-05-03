@@ -1,5 +1,5 @@
 <!-- 3.38 - Learn Web/Browser/App Security -->
-# 3.38 - 学习Web/浏览器/应用安全
+# 3.38 学习Web/浏览器/应用安全
 <!-- Browser Security Handbook [read]
 Frontend Security [watch]
 Hacksplaining [read]

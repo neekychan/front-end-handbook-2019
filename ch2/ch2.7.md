@@ -1,5 +1,5 @@
 <!-- 2.7 - Generalist/Full-Stack Myth -->
-# 2.7 - 神话：全能/全栈
+# 2.7 神话：全能/全栈
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/full-stack.jpg)
 
@@ -9,11 +9,11 @@
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/fullstack1.png)
 
-图片来源: [https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz)
+*图片来源: [https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz](https://medium.freecodecamp.com/we-asked-15-000-people-who-they-are-and-how-theyre-learning-to-code-4104e29b2781#.ngcpn8nlz)*
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/fullstack2.png)
 
-图片来源: [https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types](https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types)
+*图片来源: [https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types](https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types)*
 
 <!-- The roles to design and develop a website or web application require a deep set of skills and vast experience in the area of visual design, UI/interaction design, front-end development, and back-end development. Any person who can fill one or more of these 4 roles at a professional level is an extremely rare commodity. -->
 

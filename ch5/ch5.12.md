@@ -2,4 +2,4 @@
 
 #### 站点生成器列表：
 
-*   [headless CMS](https://headlesscms.org/)
+* [headless CMS](https://headlesscms.org/)

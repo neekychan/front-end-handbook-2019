@@ -1,5 +1,5 @@
 <!-- 3.37 - Learn Offline Development -->
-# 3.37 - 学习离线开发
+# 3.37 学习离线开发
 <!-- Offline development (aka offline first) is an area of knowledge and discussion around development practices for devices that are not always connected to the Internet or a power source. -->
 离线开发（aka 离线优先）是设备开发事件的一个知识点和讨论点，这些设备不会经常连接到互联网或电源。
 

@@ -13,7 +13,7 @@
 + [URI.js](http://medialize.github.io/URI.js/)
 
 
-**用于确定某个浏览器是否支持某个属性或者标签的一般参考工具：：**
+**用于确定某个浏览器是否支持某个属性或者标签的常规参考工具：：**
 
 <!-- Browser support for broken/missing images -->
 + [浏览器支持已损坏或者丢失的图像](http://codepen.io/bartveneman/full/qzCte/)
@@ -44,17 +44,17 @@
 <!-- Chrome Developer Tools (aka DevTools) -->
 + [Chrome开发者工具（又名DevTools）](https://developers.google.com/web/tools/?hl=en)
 
-    <!-- Per-Panel Documentation -->
-    + [每个面板文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+  <!-- Per-Panel Documentation -->
+  + [Per-Panel文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
 
-    <!-- Command Line API Reference -->
-    + [命令行API参考](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
+  <!-- Command Line API Reference -->
+  + [命令行API参考](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
 
-    <!-- Keyboard & UI Shortcuts Reference -->
-    + [键盘和UI快捷方式参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+  <!-- Keyboard & UI Shortcuts Reference -->
+  + [键盘和UI快捷方式参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
 
-    <!-- Settings -->
-    + [设置](https://developer.chrome.com/devtools/docs/settings)
+  <!-- Settings -->
+  + [设置](https://developer.chrome.com/devtools/docs/settings)
 
 <!-- Firefox Developer Tools -->
 + [Firefox开发者工具](https://developer.mozilla.org/en-US/docs/Tools)
@@ -105,7 +105,7 @@
 + [Sauce Labs](https://saucelabs.com/) [付费]
 
 <!-- Headless Browsers: -->
-**Headless浏览器:**
+**无头浏览器:**
 
 + [slimerjs](http://slimerjs.org/)
 
@@ -117,7 +117,7 @@
 **自动化浏览器**
 
 <!-- Used for functional testing and monkey testing. -->
-用于功能测试和[猴子测试](https://en.wikipedia.org/wiki/Monkey_testing)。
+用于功能测试和[monkey测试](https://en.wikipedia.org/wiki/Monkey_testing)。
 
 + [CasperJS](http://casperjs.org/)
 
@@ -142,4 +142,4 @@
 在不同的前端工具之间共享目标浏览器，例如Autoprefixer，Stylelint和babel-preset-env。
 
 + [Browserslist](https://github.com/ai/browserslist)
-    + [http://browserl.ist/](http://browserl.ist/?q=%3E+2%25)
+  + [http://browserl.ist/](http://browserl.ist/?q=%3E+2%25)

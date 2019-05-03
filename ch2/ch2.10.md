@@ -1,5 +1,5 @@
 <!-- 2.10 - Front-End Salaries -->
-# 2.10 - 前端薪酬
+# 2.10 前端薪酬
 <!-- The national average in the U.S for a mid-level front-end developer is somewhere between $65k and 100k. -->
 美国全国平均水平，一个中级前端开发者的薪酬在6.5万美金到10万美金之间。
 

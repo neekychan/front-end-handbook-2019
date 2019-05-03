@@ -1,5 +1,5 @@
 <!-- 2.9 - Front-End Job Boards -->
-# 2.9 - 前端求职公告栏
+# 2.9 前端求职公告栏
 <!-- A plethora of technical job listing outlets exist. The narrowed list below are currently the most relevant resources for finding a specific front-end position/career. -->
 
 由于存在大量的技术职位招聘渠道。以下精简的列表是当前用于寻求前端职位/职业最相关资源。

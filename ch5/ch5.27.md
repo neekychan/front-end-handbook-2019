@@ -2,87 +2,87 @@
 
 #### 软件测试框架：
 
-*   [Intern](https://theintern.github.io/)
+* [Intern](https://theintern.github.io/)
 
-*   [Jest](http://facebook.github.io/jest/)
+* [Jest](http://facebook.github.io/jest/)
 
-    *   [majestic](https://majestic.debuggable.io/)
+  * [majestic](https://majestic.debuggable.io/)
 
-    *   [Enzyme](https://github.com/airbnb/enzyme)
+  * [Enzyme](https://github.com/airbnb/enzyme)
 
-    *   [Cheerio](https://github.com/cheeriojs/cheerio)
+  * [Cheerio](https://github.com/cheeriojs/cheerio)
 
 #### 单元测试：
 
-*   [AVA](https://github.com/avajs/ava)
+* [AVA](https://github.com/avajs/ava)
 
-*   [Jasmine](http://jasmine.github.io/)
+* [Jasmine](http://jasmine.github.io/)
 
-*   [Mocha](http://mochajs.org/)
+* [Mocha](http://mochajs.org/)
 
-*   [Tape](https://github.com/substack/tape)
+* [Tape](https://github.com/substack/tape)
 
 #### 单元测试的测试断言：
 
-*   [Chai](http://chaijs.com/)
+* [Chai](http://chaijs.com/)
 
-*   [expect.js](https://github.com/Automattic/expect.js)
+* [expect.js](https://github.com/Automattic/expect.js)
 
-*   [should.js](http://shouldjs.github.io/)
+* [should.js](http://shouldjs.github.io/)
 
 <!-- Test Spies, Stubs, and Mocks for Unit Testing: -->
 #### 用于单元测试的测试监听，存根和模拟：
 
-*   [sinon.js](http://sinonjs.org/)
+* [sinon.js](http://sinonjs.org/)
 
-*   [Kakapo.js](http://devlucky.github.io/kakapo-js)
+* [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
 #### 浏览器的托管测试和自动化：
 
-*   [Browserling](https://www.browserling.com/) \[付费\]
+* [Browserling](https://www.browserling.com/) \[付费\]
 
-*   [BrowserStack](https://www.browserstack.com) \[付费\]
+* [BrowserStack](https://www.browserstack.com) \[付费\]
 
-*   [CrossBrowserTesting.com](http://crossbrowsertesting.com/) \[付费\]
+* [CrossBrowserTesting.com](http://crossbrowsertesting.com/) \[付费\]
 
-*   [Nightcloud.io](http://nightcloud.io/)
+* [Nightcloud.io](http://nightcloud.io/)
 
-*   [Sauce Labs](https://saucelabs.com/) \[付费\]
+* [Sauce Labs](https://saucelabs.com/) \[付费\]
 
 #### 集成和功能测试：
 
-*   [Cypress](https://www.cypress.io/)
+* [Cypress](https://www.cypress.io/)
 
-*   [Nightwatch](http://nightwatchjs.org/)
+* [Nightwatch](http://nightwatchjs.org/)
 
-*   [WebDriver.io](http://webdriver.io/)
+* [WebDriver.io](http://webdriver.io/)
 
 #### 浏览器自动化：
 
-*   [CasperJS](http://casperjs.org/)
+* [CasperJS](http://casperjs.org/)
 
-*   [Nightmare](https://github.com/segmentio/nightmare)
+* [Nightmare](https://github.com/segmentio/nightmare)
 
-*   [TestCafe](https://github.com/DevExpress/testcafe)
+* [TestCafe](https://github.com/DevExpress/testcafe)
 
 #### UI测试工具：
 
-*   [gremlins.js](https://github.com/marmelab/gremlins.js)
+* [gremlins.js](https://github.com/marmelab/gremlins.js)
 
-*   [Percy](https://percy.io)
+* [Percy](https://percy.io)
 
-*   [BackstopJS](https://github.com/garris/BackstopJS)
+* [BackstopJS](https://github.com/garris/BackstopJS)
 
-*   [PhantomCSS](https://github.com/Huddle/PhantomCSS)
+* [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 
-*   [Ghost Inspector](https://ghostinspector.com/)
+* [Ghost Inspector](https://ghostinspector.com/)
 
-*   [diff.io](https://diff.io/)
+* [diff.io](https://diff.io/)
 
-#### 死链接和错误链接自动检测器：
+#### 死链和错误链接自动检测器：
 
-*   [Monkey Test It](https://monkeytest.it/)
+* [Monkey Test It](https://monkeytest.it/)
 
 #### HTTP存根
 
-*   [Polly.JS](https://netflix.github.io/pollyjs/#/README)
+* [Polly.JS](https://netflix.github.io/pollyjs/#/README)

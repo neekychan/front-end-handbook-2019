@@ -1,7 +1,7 @@
 <!-- 2.4 - Potential Front-end Developer Skills -->
-# 2.4 - 潜在的前端开发者技能
+# 2.4 潜在的前端开发者技能
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/front-end-skills.png)
-图片来源：[http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html](http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html)
+*图片来源：[http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html](http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html)*
 
 <!-- A basic to advanced understanding of HTML, CSS, DOM, JavaScript, HTTP/URL, and web browsers is assumed for any type of professional front-end developer role. -->
 对于任何一种专业类型的前端开发角色，都假设具备对HTML，CSS，DOM，JavaSCript，HTTP/URL和网页浏览器的基础高级理解。

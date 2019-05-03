@@ -2,6 +2,6 @@
 
 #### 站点生成器列表：
 
-*   [staticgen.com](https://www.staticgen.com/)
+* [staticgen.com](https://www.staticgen.com/)
 
-*   [staticsitegenerators.net](https://staticsitegenerators.net/)
+* [staticsitegenerators.net](https://staticsitegenerators.net/)

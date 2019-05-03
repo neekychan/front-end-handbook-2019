@@ -2,7 +2,7 @@
 ### 5.2 SEO工具
 
 <!-- General SEO Tools:-->
-**一般的SEO工具：**
+**常规SEO工具：**
 
 <!-- Keyword Tool -->
 + [关键字工具](http://keywordtool.io/)
@@ -14,7 +14,7 @@
 + [Varvy SEO工具](https://varvy.com/tools/)
 
 
-**发现SEO工具的工具：**
+**用于查找SEO工具的工具：**
 
 <!-- SEO Tools - The Complete List -->
 + [SEO工具 - 完整列表](http://backlinko.com/seo-tools)

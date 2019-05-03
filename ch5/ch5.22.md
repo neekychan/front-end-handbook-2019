@@ -2,35 +2,36 @@
 
 #### JS库:
 
-*   [d3](http://d3js.org/)
+* [d3](http://d3js.org/)
 
-*   [sigmajs](http://sigmajs.org/)
+* [sigmajs](http://sigmajs.org/)
 
-#### 小部件和组件:
+#### Widget和组件:
 
-*   [amCharts](http://www.amcharts.com/) \[免费\]
+* [amCharts](http://www.amcharts.com/) \[免费\]
 
-*   [AnyChart](http://www.anychart.com/) \[非商业免费\]
+* [AnyChart](http://www.anychart.com/) \[非商业免费\]
 
-*   [C3.js](http://c3js.org/)
+* [C3.js](http://c3js.org/)
 
-*   [Chartist-jsj](https://github.com/gionkunz/chartist-js)
+* [Chartist-jsj](https://github.com/gionkunz/chartist-js)
 
-*   [Chart.js](http://www.chartjs.org/)
+* [Chart.js](http://www.chartjs.org/)
 
-*   [Epoch](http://epochjs.github.io/epoch/)
+* [Epoch](http://epochjs.github.io/epoch/)
 
-*   [FusionCharts](http://www.fusioncharts.com/) \[付费\]
+* [FusionCharts](http://www.fusioncharts.com/) \[付费\]
 
-*   [Google Charts](https://developers.google.com/chart/interactive/docs/)
+* [Google Charts](https://developers.google.com/chart/interactive/docs/)
 
-*   [Highcharts](http://www.highcharts.com/) \[Non-commercial free to $\]
+* [Highcharts](http://www.highcharts.com/) \[非商业 部分免费\]
 
-*   [ZingChart](http://www.zingchart.com/) \[free to $\]
+* [ZingChart](http://www.zingchart.com/) \[部分免费\]
 
-#### Services (i.e. hosted data visualization services for embedding and sharing):
+<!-- #### Services (i.e. hosted data visualization services for embedding and sharing): -->
+### 服务（用于嵌入和分享的托管数据可视化服务）：
 
-*   [ChartBlocks](http://www.chartblocks.com/) \[free to $\]
-*   [Datawrapper](https://datawrapper.de/)
-*   [infogr.am](https://infogr.am) \[free to $\]
-*   [plotly](https://plot.ly/) \[free to $\]
+* [ChartBlocks](http://www.chartblocks.com/) \[部分免费\]
+* [Datawrapper](https://datawrapper.de/)
+* [infogr.am](https://infogr.am) \[部分免费\]
+* [plotly](https://plot.ly/) \[部分免费\]

@@ -2,36 +2,36 @@
 
 #### 图像：
 
-*   [placehold.it](http://placehold.it)
+* [placehold.it](http://placehold.it)
 
-*   [Satyr](http://satyr.io)
+* [Satyr](http://satyr.io)
 
-*   [Placeimg](http://placeimg.com)
+* [Placeimg](http://placeimg.com)
 
-*   [Lorem Pixel](http://lorempixel.com)
+* [Lorem Pixel](http://lorempixel.com)
 
-*   [CSS-Tricks Image Resources](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
+* [CSS-Tricks Image Resources](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
 
-*   [LibreStock](http://librestock.com)
+* [LibreStock](http://librestock.com)
 
-*   [Unsplash](https://unsplash.it)
+* [Unsplash](https://unsplash.it)
 
 #### Device Mockups：
 
-*   [placeit.net](https://placeit.net)
+* [placeit.net](https://placeit.net)
 
-*   [mockuphone.com](http://mockuphone.com)
+* [mockuphone.com](http://mockuphone.com)
 
 #### 文本：
 
-*   [Meet the Ipsums](http://meettheipsums.com)
+* [Meet the Ipsums](http://meettheipsums.com)
 
-*   [catipsum.com](http://www.catipsum.com/)
+* [catipsum.com](http://www.catipsum.com/)
 
-*   [baconipsum.com](http://baconipsum.com/) ([API](http://baconipsum.com/json-api/))
+* [baconipsum.com](http://baconipsum.com/) ([API](http://baconipsum.com/json-api/))
 
 #### 用户数据：
 
-*   [uinames.com](https://uinames.com)
+* [uinames.com](https://uinames.com)
 
-*   [randomuser.me](https://randomuser.me)
+* [randomuser.me](https://randomuser.me)

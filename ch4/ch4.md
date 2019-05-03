@@ -20,9 +20,9 @@
   
 <br>
 <!-- Notes: -->
-<!-- 1.For a complete list of schools, courses, programs, and bootcamps to evaluate have a look at switchup.org or coursereport.com. -->   
-> 提示：  
-> 1.有关要评估的学校，课程，计划和训练营的完整列表，请查看[switchup.org](https://www.switchup.org/front-end-development)或[coursereport.com](https://www.coursereport.com/tracks/front-end-developer-bootcamps)。
+<!-- 1.For a complete list of schools, courses, programs, and bootcamps to evaluate have a look at switchup.org or coursereport.com. --> 
+> 提示：
+> 1. 有关要评估的学校，课程，计划和训练营的完整列表，请查看[switchup.org](https://www.switchup.org/front-end-development)或[coursereport.com](https://www.coursereport.com/tracks/front-end-developer-bootcamps)。
   
 <br>
 <!-- If you can't afford a directed education (can be very expensive), a self directed education using screencasts, books, and articles is a viable alternative to learn front-end development for the self-driven individual. -->

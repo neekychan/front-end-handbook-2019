@@ -15,7 +15,7 @@
 >
 <!-- User Experience Design - User Experience Design (UXD or UED or XD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product. User experience design encompasses traditional human–computer interaction (HCI) design, and extends it by addressing all aspects of a product or service as perceived by users.
 — [Wikipedia](https://en.wikipedia.org/wiki/User_experience_design) -->
-> ***用户体验设计** — 用户体验设计（UXD或UED或XD）是通过改善用户与产品之间交互中提供的可用性，可访问性和愉悦来提高用户满意度的过程。 用户体验设计包括传统的人机交互（HCI）设计，并通过解决用户所感知的产品或服务的所有方面来扩展它。*
+> ***用户体验设计** — 用户体验设计（UXD或UED或XD）是通过改善用户与产品之间交互中提供的可用性，可触达性和愉悦来提高用户满意度的过程。 用户体验设计包括传统的人机交互（HCI）设计，并通过解决用户所感知的产品或服务的所有方面来扩展它。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/User_experience_design) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97)*
 > 
@@ -28,14 +28,14 @@
 <!-- Minimally I'd suggest reading the following canonical texts on the matter so one can support and potential build usable user interfaces. -->
 我建议阅读以下关于此事的规范性文本，以便可以支持和有能力构建可用的用户界面。
 
-*   [关于表面：交互设计的要点](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [关于表面：交互设计的要点](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-*   [黑客设计：逆向工程美](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [黑客设计：逆向工程美](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-*   [非设计师设计](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) \[观看\]
+* [非设计师设计](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) \[观看\]
 
-*   [设计接口](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4539707bb145c676472472aab25eaa56&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [设计接口](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=4539707bb145c676472472aab25eaa56&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-*   [设计Web界面：丰富交互的原则和模式](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=03fb59f4a4345732fae9ecdfaa5076ae&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [设计Web界面：丰富交互的原则和模式](https://www.amazon.com/Designing-Web-Interfaces-Principles-Interactions-ebook/dp/B0026OR33U/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=03fb59f4a4345732fae9ecdfaa5076ae&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-*   [不要让用户思考和重访：网络可用性的常识方法](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=8b0b0771a9985e4e030ef1fe29cf6409&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [不要让用户思考和重访：网络可用性的常识方法](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=8b0b0771a9985e4e030ef1fe29cf6409&camp=1789&creative=9325) \[阅读\]\[付费\]

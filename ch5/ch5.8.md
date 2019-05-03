@@ -54,7 +54,7 @@
 + [HTMLHint](http://htmlhint.com/)
 
 <!-- html-inspector -->
-+ [html-检查工具](https://github.com/philipwalton/html-inspector)
++ [HTML-检查工具](https://github.com/philipwalton/html-inspector)
 
 <!-- Optimizer: -->
 **优化**
@@ -74,7 +74,7 @@
 + [HTML代码指南](http://codeguide.co/#html)
 
 <!-- Principles of Writing Consistent, Idiomatic HTML -->
-+ [一致的、符合语言习惯的HTML编写原则](https://github.com/necolas/idiomatic-html)
++ [一致的、语义化的HTML编写原则](https://github.com/necolas/idiomatic-html)
 
 <!-- Workflow: -->
 **工作流：**
@@ -87,6 +87,6 @@
 + [HTML5大纲视图](https://gsnedders.html5.org/outliner/)
 
 <!-- Trending HTML Repositories on GitHub This Month: -->
-**本月在GitHub上存放HTML的仓库趋势：**
+**本月在GitHub上流行的HTML库：**
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)

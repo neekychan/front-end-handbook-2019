@@ -12,30 +12,30 @@
 > 
 > — [维基百科](https://en.wikipedia.org/wiki/JSON) & [中文地址](https://zh.wikipedia.org/wiki/JSON)
 
-#### 一般学习:
+#### 基础学习:
 
 <!-- Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON -->
-*   [JavaScript对象表示法介绍: JSON入门指南](https://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=24e8df4722cb62d086d3f8c87f4e17a1&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [JavaScript对象表示法介绍: JSON入门指南](https://www.amazon.com/Introduction-JavaScript-Object-Notation-Point/dp/1491929480/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=24e8df4722cb62d086d3f8c87f4e17a1&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-*   [json.com](https://www.json.com/) \[阅读\]
+* [json.com](https://www.json.com/) \[阅读\]
 
-*   [JSON是什么](https://mijingo.com/lessons/what-is-json/) \[观看\]
+* [JSON是什么](https://mijingo.com/lessons/what-is-json/) \[观看\]
 
 #### 参考文献和文档：
 
-*   [json.org](http://json.org/) \[阅读\]
+* [json.org](http://json.org/) \[阅读\]
 
 #### 标准和规范：
 
 <!-- ECMA-404 The JSON Data Interchange Format -->
-*   [JSON数据交换格式ECMA-404](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+* [JSON数据交换格式ECMA-404](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 
 <!-- RFC 7159 The JavaScript Object Notation (JSON) Data Interchange Format -->
-*   [JavaScript对象表示法(JSON)数据交换格式RFC 7159](https://tools.ietf.org/html/rfc7159)
+* [JavaScript对象表示法(JSON)数据交换格式RFC 7159](https://tools.ietf.org/html/rfc7159)
 
 <!-- STD 90 - RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format, DECEMBER 2017 -->
-*   [STD 90 - RFC 8259 - JavaScript对象表示法(JSON)数据交换格式，2017年12月](https://www.rfc-editor.org/info/rfc8259)
+* [STD 90 - RFC 8259 - JavaScript对象表示法(JSON)数据交换格式，2017年12月](https://www.rfc-editor.org/info/rfc8259)
 
 #### 架构设计:
 
-*   [JSON API](http://jsonapi.org/)
+* [JSON API](http://jsonapi.org/)

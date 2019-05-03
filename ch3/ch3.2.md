@@ -27,56 +27,56 @@
 <!-- Evolution of Browsers & Web Technologies (i.e., APIs) -->
 #### 浏览器和Web技术（即API）的演变
 
-*   [evolutionoftheweb.com](http://www.evolutionoftheweb.com/) \[阅读\]
+* [evolutionoftheweb.com](http://www.evolutionoftheweb.com/) \[阅读\]
 
-*   [网络浏览器的时间表](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) \[阅读\]
+* [网络浏览器的时间表](https://en.wikipedia.org/wiki/Timeline_of_web_browsers) \[阅读\]
 
 <!-- The Most Commonly Used Headless Browser Are: -->
 #### 最常用的[无头浏览器](http://www.asad.pw/HeadlessBrowsers/)是：
 
-*   [无头Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) (引擎: [Blink](https://www.chromium.org/blink) \+ V8)
+* [无头Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) (引擎: [Blink](https://www.chromium.org/blink) \+ V8)
 
-*   [SlimerJS](http://slimerjs.org/) (引擎: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) \+ [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
+* [SlimerJS](http://slimerjs.org/) (引擎: [Gecko](https://en.wikipedia.org/wiki/Gecko_%28software%29) \+ [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey_%28software%29))
 
 <!-- How Browsers Work -->
 #### 浏览器如何工作
 
-*   [我学到的关于浏览器和网络的20件事](http://www.20thingsilearned.com/en-US/foreword/1) \[阅读\]
+* [我学到的关于浏览器和网络的20件事](http://www.20thingsilearned.com/en-US/foreword/1) \[阅读\]
 
-*   [CSS速成：浏览器如何布局网页](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) \[阅读\]
+* [CSS速成：浏览器如何布局网页](http://dbaron.org/talks/2012-03-11-sxsw/master.xhtml) \[阅读\]
 
-*   [浏览器如何工作：现代网络浏览器的幕后](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) \[阅读\]
+* [浏览器如何工作：现代网络浏览器的幕后](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) \[阅读\]
 
-*   [聚焦Quantum：什么是浏览器引擎？](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/)
+* [聚焦Quantum：什么是浏览器引擎？](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/)
 
-*   [那么浏览器如何渲染网站的真相是什么](https://www.youtube.com/watch?v=SmE4OwHztCc) \[观看\]
+* [那么浏览器如何渲染网站的真相是什么](https://www.youtube.com/watch?v=SmE4OwHztCc) \[观看\]
 
-*   [是什么导致重排](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) \[阅读\]
+* [是什么导致重排](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) \[阅读\]
 
-*   [每个前端开发人员应该知道的关于网页渲染的内容](http://frontendbabel.info/articles/webpage-rendering-101/) \[阅读\]
+* [每个前端开发者应该知道的关于网页渲染的内容](http://frontendbabel.info/articles/webpage-rendering-101/) \[阅读\]
 
 <!-- Optimizing for Browsers: -->
 #### 浏览器优化：
 
-*   [浏览器渲染优化](https://www.udacity.com/course/browser-rendering-optimization--ud860) \[观看\]
+* [浏览器渲染优化](https://www.udacity.com/course/browser-rendering-optimization--ud860) \[观看\]
 
-*   [网站性能优化](https://www.udacity.com/course/website-performance-optimization--ud884) \[观看\]
+* [网站性能优化](https://www.udacity.com/course/website-performance-optimization--ud884) \[观看\]
 
 <!-- Comparing Browsers -->
 #### 浏览器比较
 
-*   [Web浏览器的比较](https://en.wikipedia.org/wiki/Comparison_of_web_browsers) \[阅读\]
+* [Web浏览器的比较](https://en.wikipedia.org/wiki/Comparison_of_web_browsers) \[阅读\]
 
 <!-- Browser Hacks -->
 #### 浏览器Hack
 
-*   [browserhacks.com](http://browserhacks.com/) \[阅读\]
+* [browserhacks.com](http://browserhacks.com/) \[阅读\]
 
 <!-- Developing for Browsers -->
 #### 浏览器开发
 
 <!-- In the past, front-end developers spent a lot of time making code work in several different browsers. This was once a bigger issue than it is today. Today, abstractions (e.g., React, Webpack, Post-CSS, Babel etc...) combined with modern browsers make browser development fairly easy. The new challenge is not which browser the user will use, but on which device they will run the browser. -->
-前端开发人员过去花了很多时间在几个不同的浏览器中开发代码。 这个问题曾经比今天更严重。 现在，抽象（例如，React，Webpack，Post-CSS，Babel等......）与现代浏览器相结合，使浏览器开发变得相当容易。 新的挑战不是用户将使用哪种浏览器，而是他们将在哪个设备上运行浏览器。
+前端开发者过去花了很多时间在几个不同的浏览器中开发代码。 这个问题曾经比今天更严重。 现在，抽象（例如，React，Webpack，Post-CSS，Babel等......）与现代浏览器相结合，使浏览器开发变得相当容易。 新的挑战不是用户将使用哪种浏览器，而是他们将在哪个设备上运行浏览器。
 
 <!-- Evergreen Browsers -->
 #### 安全浏览器
@@ -88,4 +88,4 @@
 #### 浏览器的选择
 
 <!-- As of today, most front-end developers use Chrome and "Chrome Dev Tools" to develop front-end code. However, the most used modern browsers all offer a flavor of developer tools. Picking one to use for development is a subjective choice. The more important issue is knowing which browsers, on which devices, you have to support and then testing appropriately. -->
-截至今天，大多数前端开发人员使用Chrome和“Chrome Dev Tools”来开发前端代码。 但是，最常用的现代浏览器都提供了一种开发人员工具。 选择哪一个作为开发工具是主观的。 更重要的问题是知道有哪些浏览器，你必须支持哪些设备，然后进行适当的测试。
+截至今天，大多数前端开发者使用Chrome和“Chrome Dev Tools”来开发前端代码。 但是，最常用的现代浏览器都提供了一种开发者工具。 选择哪一个作为开发工具是主观的。 更重要的问题是知道有哪些浏览器，你必须支持哪些设备，然后进行适当的测试。
