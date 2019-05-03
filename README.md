@@ -5,7 +5,7 @@
 <!-- This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019. -->
 [原文地址](https://frontendmasters.com/books/front-end-handbook/2019/)
 
-翻译：neekychan & freedom
+翻译：neekychan([微博](https://weibo.com/cwlay)) & freedom
 
 ### 概要
 这是一份所有人能够用于学习前端开发实践的指南。这概述和讨论了前端工程的实践：在2019年的实践过程中，该如何学习和使用什么样的工具。
