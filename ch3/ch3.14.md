@@ -31,8 +31,7 @@
 * [网页可触达性介绍](https://www.w3.org/WAI/intro/accessibility.php) \- WAI \[阅读\]
 
 <!-- Universal Design for Web Applications: Web Applications That Reach Everyone -->
-* [面向Web应用程序的通用设计: 面向所有人的Web应用程序]
-(http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) \[阅读\]\[付费\]
+* [面向Web应用程序的通用设计: 面向所有人的Web应用程序](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) \[阅读\]\[付费\]
 
 <!-- Web Accessibility: Getting Started -->
 * [Web可触达性: 快速开始](http://www.pluralsight.com/courses/web-accessibility-getting-started) \[观看\]\[付费\]

@@ -1,6 +1,6 @@
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/FM_2019Cover_final.jpg)
 # 前端开发者手册2019
-## [Cody Lindley](http://codylindley.com/)编著
+## [Cody Lindley](http://codylindley.com/) 编著
 
 <!-- This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019. -->
 [原文地址](https://frontendmasters.com/books/front-end-handbook/2019/)
