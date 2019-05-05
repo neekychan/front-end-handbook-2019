@@ -1,31 +1,31 @@
-### 5.23 图形（例如，SVG，canvas，webgl）工具
+### 5.23 图形（SVG，canvas，WebGL）工具
 
-#### General:
+#### 常规:
 
-*   [Fabric.js](http://fabricjs.com/)
+* [Fabric.js](http://fabricjs.com/)
 
-*   [Two.js](http://jonobr1.github.io/two.js/#introduction)
+* [Two.js](http://jonobr1.github.io/two.js/#introduction)
 
 #### Canvas:
 
-*   [EaselJS](https://github.com/CreateJS/EaselJS)
+* [EaselJS](https://github.com/CreateJS/EaselJS)
 
-*   [Paper.js](http://paperjs.org/)
+* [Paper.js](http://paperjs.org/)
 
 #### SVG:
 
-*   [d3](http://d3js.org/)
+* [d3](http://d3js.org/)
 
-*   [GraphicsJS](http://www.graphicsjs.org/)
+* [GraphicsJS](http://www.graphicsjs.org/)
 
-*   [Raphaël](http://dmitrybaranovskiy.github.io/raphael/)
+* [Raphaël](http://dmitrybaranovskiy.github.io/raphael/)
 
-*   [Snap.svg](http://snapsvg.io/)
+* [Snap.svg](http://snapsvg.io/)
 
-*   [svg.js](http://svgjs.com/)
+* [svg.js](http://svgjs.com/)
 
 #### WebGL:
 
-*   [pixi.js](https://github.com/pixijs/pixi.js)
+* [pixi.js](https://github.com/pixijs/pixi.js)
 
-*   [three.js](http://threejs.org/)
+* [three.js](http://threejs.org/)

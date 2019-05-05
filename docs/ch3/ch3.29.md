@@ -1,5 +1,5 @@
 <!-- 3.29 - Learn Modules -->
-# 3.29 - 学习模块
+# 3.29 学习模块
 <!-- General Learning: -->
 #### 基础学习：
 <!-- JavaScript for impatient programmers - Modules [read]

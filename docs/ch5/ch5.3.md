@@ -2,7 +2,7 @@
 ### 5.3 原型图和线框工具
 
 <!-- Creating: -->
-**创建：**
+**创造：**
 
 <!-- Axure [$] -->
 + [Axure](http://www.axure.com/) [付费]

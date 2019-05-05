@@ -14,7 +14,7 @@
 + [速度曲线](https://speedcurve.com/)[$]
 
 <!-- Web Page Test -->
-+ [网页测试](http://www.webpagetest.org/)
++ [Web页面测试](http://www.webpagetest.org/)
 
 + [Sonarwhal](https://sonarwhal.com/)
 

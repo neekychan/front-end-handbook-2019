@@ -1,10 +1,10 @@
 <!-- 3.35 - Learn Testing -->
-# 3.35 - 学习测试
+# 3.35 学习测试
 <!-- Unit Testing - In computer programming, unit testing is a software testing method by which individual units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use. Intuitively, one can view a unit as the smallest testable part of an application.
 
 — Wikipedia -->
 
-> 单元测试 - 在计算机编程中，单元测试是一种软件测试的方法，它是源代码的独立单元，一个或多个计算机程序模块集合，以及关联的控制数据，使用程序和操作程序，以确定他们是否适合可用。直观地，可以将单元视为程序中最小的可测试部分。
+> *单元测试 - 在计算机编程中，单元测试是一种软件测试的方法，它是源代码的独立单元，一个或多个计算机程序模块集合，以及关联的控制数据，使用程序和操作程序，以确定他们是否适合可用。直观地，可以将单元视为程序中最小的可测试部分。*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Unit_testing) & [中文地址](https://zh.wikipedia.org/wiki/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95)*
 

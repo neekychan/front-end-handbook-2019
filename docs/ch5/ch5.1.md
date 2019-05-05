@@ -2,7 +2,7 @@
 ### 5.1 Doc/API浏览工具
 
 <!-- Tools to browse common developer documents and developer API references. -->
-**浏览常见开发人员文档和开发人员API参考的工具。**
+**浏览常见的开发者文档和API参考工具。**
 
 <!-- Dash [OS X, iOS][$] -->
 + [Dash](https://kapeli.com/dash) [OS X, iOS][付费]

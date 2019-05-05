@@ -11,17 +11,17 @@
 
 *图像来源: [https://visual.ly/community/infographic/computers/how-does-seo-work](https://visual.ly/community/infographic/computers/how-does-seo-work)*
 
-#### 一般学习：
+#### 基础学习：
 
-*   [Google搜索引擎优化入门指南](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) \[阅读\]
+* [Google搜索引擎优化入门指南](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf) \[阅读\]
 
-*   [现代SEO](https://frontendmasters.com/courses/modern-seo/) \[观看\]\[付费\]
+* [现代SEO](https://frontendmasters.com/courses/modern-seo/) \[观看\]\[付费\]
 
-*   [David Booth的SEO基础](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) \[观看\]\[付费\]
+* [David Booth的SEO基础](http://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html) \[观看\]\[付费\]
 
-*   [Paul Wilson的SEO基础](http://www.pluralsight.com/courses/seo-fundamentals) \[观看\]\[付费\]
+* [Paul Wilson的SEO基础](http://www.pluralsight.com/courses/seo-fundamentals) \[观看\]\[付费\]
 
-*   [2016年初学者SEO教程](http://www.hobo-web.co.uk/seo-tutorial/) \[阅读\]
+* [2016年初学者SEO教程](http://www.hobo-web.co.uk/seo-tutorial/) \[阅读\]
 
-*   [网页设计师的SEO教程](https://webdesign.tutsplus.com/courses/seo-for-web-designers) \[观看\]\[付费\]
+* [网页设计师的SEO教程](https://webdesign.tutsplus.com/courses/seo-for-web-designers) \[观看\]\[付费\]
 

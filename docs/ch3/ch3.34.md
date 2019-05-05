@@ -1,10 +1,10 @@
 <!-- 3.34 - Learn Site Performance Optimization -->
-# 3.34 - 学习站点性能优化
+# 3.34 学习站点性能优化
 <!-- Web performance optimization, WPO, or website optimization is the field of knowledge about increasing the speed in which web pages are downloaded and displayed on the user's web browser. With the average internet speed increasing globally, it is fitting for website administrators and webmasters to consider the time it takes for websites to render for the visitor.
 
 — Wikipedia -->
 
-> Web性能优化，WPO或网站优化是关于提升那些在用户web浏览器中已下载和已展示web页面的速度的只是领域。随着全球平局网络速度的提升，网站管理者和站长应该考虑呈现给用户的网站耗时。
+> *Web性能优化，WPO或网站优化是关于提升那些在用户web浏览器中已下载和已展示web页面的速度的只是领域。随着全球平局网络速度的提升，网站管理者和站长应该考虑呈现给用户的网站耗时。*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Web_performance_optimization)*
 

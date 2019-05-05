@@ -1,5 +1,5 @@
 <!-- # 2.5 - Front-End Developers Develop For... -->
-# 2.5 - 前端开发者对...开发
+# 2.5 前端开发者对...开发
 <!-- A front-end developer crafts HTML, CSS, and JS that typically runs on the web platform (e.g. a web browser) delivered from one of the following operating systems (aka OSs): -->
 
 前端开发者使用HTLM，CSS和JS，通常运行在以下操作系统(OSs)的[web平台](http://tess.oconnor.cx/2009/05/what-the-web-platform-is)上：
@@ -36,8 +36,8 @@
 - [物件](https://en.wikipedia.org/wiki/Internet_of_things)（例如：任何能想象的东西，汽车、冰箱、电灯、恒温器等等）
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/growth-iot.jpg)
-图片来源: [https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/](https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/)
-
+*图片来源: [https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/](https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/)
+*
 <!-- Generally speaking, front-end technologies can run on the aforementioned operating systems and devices using the following run time web platform scenarios: -->
 普遍来说，前端技术能够运行在上述操作系统和使用以下运行时的网页平台设备中：
 

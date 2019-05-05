@@ -11,12 +11,12 @@
 
 *图像来源: [http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how\_dns\_works.jpg](http://www.digital-digest.com/blog/DVDGuy/wp-content/uploads/2011/11/how_dns_works.jpg)*
 
-*   [DNS术语，组件和概念介绍](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[阅读\]
+* [DNS术语，组件和概念介绍](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) \[阅读\]
 
-*   [DNS解析](https://www.youtube.com/watch?v=72snZctFFtA) \[观看\]
+* [DNS解析](https://www.youtube.com/watch?v=72snZctFFtA) \[观看\]
 
-*   [DNS如何工作](https://howdns.works/ep1/) \[阅读\]
+* [DNS如何工作](https://howdns.works/ep1/) \[阅读\]
 
-*   [互联网：IP地址和DNS](https://www.youtube.com/watch?v=5o8CwafCxnU&index=3&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) \[观看\]
+* [互联网：IP地址和DNS](https://www.youtube.com/watch?v=5o8CwafCxnU&index=3&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) \[观看\]
 
-*   [什么是域名？](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) \[阅读\]
+* [什么是域名？](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name) \[阅读\]

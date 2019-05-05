@@ -1,10 +1,12 @@
 <!-- 3.31 - Learn Package Manager -->
-# 3.31 - 学习包管理器
+# 3.31 学习包管理器
 <!-- A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a computer's operating system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
 
 — Wikipedia -->
 
-> 包管理器或包管理系统是一组软件集合的工具，它可以通过一致的方式自动执行安装，更新，配置以及移除计算机操作系统软件包的过程。它通常维护了一个软件依和版本信息的赖数据库，以防止软件无法匹配和丢失前置依赖。- [Wikipedia](https://en.wikipedia.org/wiki/Package_manager)
+> *包管理器或包管理系统是一组软件集合的工具，它可以通过一致的方式自动执行安装，更新，配置以及移除计算机操作系统软件包的过程。它通常维护了一个软件依和版本信息的赖数据库，以防止软件无法匹配和丢失前置依赖。*
+>
+> *- [维基百科](https://en.wikipedia.org/wiki/Package_manager)*
 
 <!-- General Learning: -->
 #### 基础学习：

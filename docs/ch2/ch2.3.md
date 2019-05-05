@@ -1,5 +1,5 @@
 <!-- 2.3 - Baseline Web Technologies Employed by Front-End Developers -->
-# 2.3 - Web开发者所需要的基础技术
+# 2.3 Web开发者所需要的基础技术
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/web-tech-employed.jpg)
 <!-- The following core web technologies are employed by front-end developers (consider learning them in this order): -->
 下面是被前端开发者所使用的核心网页技术（可考虑按顺序学习它们）：
@@ -20,10 +20,10 @@
 3. 同意资源定位（URLs）
 4. 超文本传输协议（HTTP）
 5. JavaScript编程语言（ECMAScript 262）
-6. JavaScript对象简谱（JSON）
+6. JavaScript对象表示法（JSON）
 7. 文档对象模型（DOM）
 8. Web APIs（HTML5 和 friends 或 浏览器APIs ）
-9. 网页内容无障碍指引（WCAG）& 无障碍的富网络应用程序（ARIA）
+9. 网页内容可触达性指引（WCAG）& 可触达性的富网络应用程序（ARIA）
 
 一个所有网页相关规范的综合性列表，清参阅[platform.html5.org](https://platform.html5.org/)或【MDN Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)。
 
@@ -34,7 +34,7 @@
 <!-- Hyper Text Markup Language (aka HTML) -->
 ### 超文本标记链接（HTML）
 <!-- HyperText Markup Language, commonly referred to as HTML, is the standard markup language used to create web pages. Web browsers can read HTML files and render them into visible or audible web pages. HTML describes the structure of a website semantically along with cues for presentation, making it a markup language, rather than a programming language. -->
-> 超文本标记链接，通常称为HTML，是一种用于创建网页的标准标记语言。web浏览器能读取HTML文件并将其渲染成看可视化的网页。HTML描述了一个网站的结构语义随着线索的呈现，使之成为一种标记语言而非编程语言。
+> *超文本标记链接，通常称为HTML，是一种用于创建网页的标准标记语言。web浏览器能读取HTML文件并将其渲染成看可视化的网页。HTML描述了一个网站的结构语义随着线索的呈现，使之成为一种标记语言而非编程语言。*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/HTML) & [中文地址](https://zh.wikipedia.org/wiki/HTML)*
 
@@ -61,7 +61,7 @@ The HTML Syntax from the Living Standard -->
 <!-- Cascading Style Sheets (aka CSS) -->
 ### 层叠样式表（CSS）
 <!-- Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. Although most often used to change the style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications. -->
-> 层叠样式表（CSS）一种用样式表语言,用于描述用标记语言编写的文档的外观和格式。尽管经常用于改变用HTML和XHTML所编写的网页和用户界面的样式，该语言能应用于任何类型的XML文档，包括纯XML，SVG和XUL。由于HTLM和JavaScript，CSS是基础技术，被大部分网站用于创建外表迷人的网页，网页应用程序的用户界面和许多移动应用的用户界面。
+> *层叠样式表（CSS）一种用样式表语言,用于描述用标记语言编写的文档的外观和格式。尽管经常用于改变用HTML和XHTML所编写的网页和用户界面的样式，该语言能应用于任何类型的XML文档，包括纯XML，SVG和XUL。由于HTLM和JavaScript，CSS是基础技术，被大部分网站用于创建外表迷人的网页，网页应用程序的用户界面和许多移动应用的用户界面。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) & [中文地址](https://zh.wikipedia.org/wiki/%E5%B1%82%E5%8F%A0%E6%A0%B7%E5%BC%8F%E8%A1%A8)*
 
@@ -80,7 +80,7 @@ Selectors Level 3 -->
 ### 超文本传输协议（HTTP）
 <!-- The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web. -->
 
-> 超文本传输协议（HTTP）一种用于分布式、协作的，超媒体信息系统的应用层协议。HTTP是WWW的数据通讯的基础。
+> *超文本传输协议（HTTP）一种用于分布式、协作的，超媒体信息系统的应用层协议。HTTP是WWW的数据通讯的基础。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) & [中文地址](https://zh.wikipedia.org/wiki/超文本传输协议)*
 
@@ -97,8 +97,8 @@ Selectors Level 3 -->
 <!-- A uniform resource locator (URL) (also called a web address) is a reference to a resource that specifies the location of the resource on a computer network and a mechanism for retrieving it. A URL is a specific type of uniform resource identifier (URI), although many people use the two terms interchangeably. A URL implies the means to access an indicated resource, which is not true of every URI. URLs occur most commonly to reference web pages (http), but are also used for file transfer (ftp), email (mailto), database access (JDBC), and many other applications. -->
 
 <!-- — Wikipedia -->
-> 统一资源定位（URL）（也称为web地址）是一种对资源的引用，指定了资源在计算机网络的位置和检索的机制。URL是一种明确的统一资源标志符类型（URI），尽管许多人将它混在一起使用。URL表示可访问指定资源的方法，但并非每个URI皆如此。URL常见于引用网页（http）,但也用于文件传输协议(ftp)，邮件（mailto），访问数据库（JDBC）和许多其他应用。
->
+> *统一资源定位（URL）（也称为web地址）是一种对资源的引用，指定了资源在计算机网络的位置和检索的机制。URL是一种明确的统一资源标志符类型（URI），尽管许多人将它混在一起使用。URL表示可访问指定资源的方法，但并非每个URI皆如此。URL常见于引用网页（http）,但也用于文件传输协议(ftp)，邮件（mailto），访问数据库（JDBC）和许多其他应用。*
+> 
 >*- [维基百科](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) & [中文地址](https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)*
 
 <!-- Most relevant specifications: -->
@@ -116,7 +116,7 @@ URL Living Standard -->
 
 <!-- — Wikipedia -->
 
-> 文档对象模型是一种在跨平台和语言无关性的约定，用于表示HTML，XHTML和XML文档中的对象并与之交互。每个文档中的节点都在一个树状结构树种被组织起来，被叫做DOM树。可用对象中的方法对DOM树中的对象进行寻址和操作。DOM的公有接口在其应用程序编程接口中被指定。
+> *文档对象模型是一种在跨平台和语言无关性的约定，用于表示HTML，XHTML和XML文档中的对象并与之交互。每个文档中的节点都在一个树状结构树种被组织起来，被叫做DOM树。可用对象中的方法对DOM树中的对象进行寻址和操作。DOM的公有接口在其应用程序编程接口中被指定。*
 >
 >*- [维基百科](https://en.wikipedia.org/wiki/Document_Object_Model) & [中文地址](https://zh.wikipedia.org/wiki/%E6%96%87%E6%A1%A3%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B)*
 
@@ -138,7 +138,7 @@ UI Events -->
 
 <!-- — Wikipedia -->
 
-> JavaScript是一种高级，动态，无类型和解析型编程语言。它已通过ECMAScript实现语言的标准化。与HTML、CSS一样，它是WWW内容生产中三大关键的技术之一。大多数网站中都采用这种技术，并且已被现代浏览器所支持，出了plug-ins外。JavaScript是一门基于原型、函数先行的语言，是一门多范式的语言，它支持面向对象编程，命令式编程，以及函数式编程。
+> *JavaScript是一种高级，动态，无类型和解析型编程语言。它已通过ECMAScript实现语言的标准化。与HTML、CSS一样，它是WWW内容生产中三大关键的技术之一。大多数网站中都采用这种技术，并且已被现代浏览器所支持，出了plug-ins外。JavaScript是一门基于原型、函数先行的语言，是一门多范式的语言，它支持面向对象编程，命令式编程，以及函数式编程。*
 > 
 > *- [维基百科](https://en.wikipedia.org/wiki/JavaScript) & [中文地址](https://zh.wikipedia.org/wiki/JavaScript)*
 
@@ -156,7 +156,7 @@ All ECMAScript Language Specifications -->
 <!-- When writing code for the Web using JavaScript, there are a great many APIs available. Below is a list of all the interfaces (that is, types of objects) that you may be able to use while developing your Web app or site. -->
 
 <!-- — Mozilla -->
-> 当用JavaScript编写网页代码的时候，会有非常多可用的APIs。下面列出了当你在开发你的网页应用和站点时，你有可能使用到的接口（即对象的类型）
+> *当用JavaScript编写网页代码的时候，会有非常多可用的APIs。下面列出了当你在开发你的网页应用和站点时，你有可能使用到的接口（即对象的类型）*
 > 
 > *- [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API)*
 
@@ -167,13 +167,13 @@ All ECMAScript Language Specifications -->
 - [Web API接口](https://developer.mozilla.org/en-US/docs/Web/API)
 
 <!-- JavaScript Object Notation (aka JSON) -->
-### JavaScript对象简谱（JSON）
+### JavaScript对象表示法（JSON）
 
 <!-- It is the primary data format used for asynchronous browser/server communication (AJAJ), largely replacing XML (used by AJAX). Although originally derived from the JavaScript scripting language, JSON is a language-independent data format. Code for parsing and generating JSON data is readily available in many programming languages. The JSON format was originally specified by Douglas Crockford. It is currently described by two competing standards, RFC 7159 and ECMA-404. The ECMA standard is minimal, describing only the allowed grammar syntax, whereas the RFC also provides some semantic and security considerations. The official Internet media type for JSON is application/json. The JSON filename extension is .json.
 
 — Wikipedia -->
 
-> 这是一种用于异步浏览器/服务器通讯的主要数据格式，已大规模替代XML（被AJAX使用）。尽管源自于JavaScript语言，JSON是一种语言无关性的数据格式。在许多编程语言中能容易使用用于解析和生成JSON数据的代码。JSON格式最初由Douglas Crockford所制定。当前被两种相互竞争的标准所描述，RFC 7159 and ECMA-404。ECMA标准在最小限度描述了所允许的语法，然而RFC也提供了一些语义和安全的考虑。JSON的正式网络媒体类型是application/json。JSON的文件扩展名是.json。
+> *这是一种用于异步浏览器/服务器通讯的主要数据格式，已大规模替代XML（被AJAX使用）。尽管源自于JavaScript语言，JSON是一种语言无关性的数据格式。在许多编程语言中能容易使用用于解析和生成JSON数据的代码。JSON格式最初由Douglas Crockford所制定。当前被两种相互竞争的标准所描述，RFC 7159 and ECMA-404。ECMA标准在最小限度描述了所允许的语法，然而RFC也提供了一些语义和安全的考虑。JSON的正式网络媒体类型是application/json。JSON的文件扩展名是.json。*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/JSON) & [中文地址](https://zh.wikipedia.org/wiki/JSON)*
 
@@ -190,17 +190,17 @@ The JSON Data Interchange Format -->
 
 <!-- Web Content Accessibility Guidelines (aka WCAG) & Accessible Rich Internet Applications (aka ARIA) -->
 
-### 网页内容无障碍指南（WCAG）& 无障碍的富网络应用程序（ARIA）
+### 网页内容可触达性指南（WCAG）& 可触达性的富网络应用程序（ARIA）
 
 <!-- Accessibility refers to the design of products, devices, services, or environments for people with disabilities. The concept of accessible design ensures both “direct access” (i.e., unassisted) and "indirect access" meaning compatibility with a person's assistive technology (for example, computer screen readers).
 
 — Wikipedia -->
 
-> 无障碍性是指为残疾人士设计产品，设备，服务或环境。无障碍设计的概念既确保了“直接使用（例如：无辅助）”和“间接使用”，意味着与人的辅助技术的兼容性。（例如，计算机屏幕朗读者）
+> *可触达性是指为残疾人士设计产品，设备，服务或环境。可触达性设计的概念既确保了“直接使用（例如：无辅助）”和“间接使用”，意味着与人的辅助技术的兼容性。（例如，计算机屏幕朗读者）*
 >
 > *- [维基百科](https://en.wikipedia.org/wiki/Accessibility) & [中文地址](https://zh.wikipedia.org/zh-cn/%E7%B6%B2%E9%A0%81%E8%A6%AA%E5%92%8C%E5%8A%9B)*
 
 <!-- Web Accessibility Initiative (WAI)
 Web Content Accessibility Guidelines (WCAG) Current Status -->
-- [网页易读性倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
-- [网页内容无障碍指南（WCAG）当前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
+- [网页可触达性倡议（WAI）](https://www.w3.org/WAI/standards-guidelines/)
+- [网页内容可触达性指南（WCAG）当前状态](http://www.w3.org/standards/techs/wcag#w3c_all)

@@ -1,7 +1,7 @@
 ### 5.19 GUI开发和构建工具
 
-*   [CodeKit](http://incident57.com/codekit/)
+* [CodeKit](http://incident57.com/codekit/)
 
-*   [Prepros](https://prepros.io/)
+* [Prepros](https://prepros.io/)
 
-*   [KoalaApp](http://koala-app.com/) \[免费\]
+* [KoalaApp](http://koala-app.com/) \[免费\]

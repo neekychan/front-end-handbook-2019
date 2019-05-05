@@ -1,7 +1,7 @@
 <!-- Chapter 2. The Practice of Front-end Development: Overview -->
-# 第2章 - 前端开发实践：概要
+# 第2章 前端开发实践：概要
 <!-- This chapter will break down and broadly describes the practice of front-end engineering starting with, "How Front-End Developers Are Made". -->
-本章节从“前端开发者是如何出现的”开始，分解并大体上讲述前端开发工程的实践。
+本章从“前端开发者是如何出现的”开始，分解并大体上讲述前端开发工程的实践。
 
 <!-- 2.1 - How Front-End Developers Are Made -->
 ## 2.1 前端开发者是如何出现的
@@ -10,7 +10,7 @@
 究竟如何成为一名前端开发者呢？好，这非常复杂。从下面的路线图思考一下：
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/frontend.png)
-图片来源: [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+*图片来源: [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)*
 
 <!-- Today, in general, one can't go to college and expect to graduate with a degree in front-end engineering. And, I rarely hear of or meet front-end developers who suffered through what is likely a deprecated computer science degree or graphic design degree to end up writing HTML, CSS, and JavaScript professionally. From my perspective, most of the people working on the front-end today generally seem to be self-taught from the ground up or cross over into the front-end space from design or computer science fields. -->
 

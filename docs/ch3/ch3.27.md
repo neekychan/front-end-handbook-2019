@@ -1,9 +1,11 @@
 <!-- 3.27 - Learn the Command Line (aka CLI) -->
-# 3.27 - 学习命令行（CLI）
+# 3.27 学习命令行（CLI）
 <!-- A command-line interface or command language interpreter (CLI), also known as command-line user interface, console user interface, and character user interface (CUI), is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines).
 — Wikipedia -->
 
-> 命令行界面或命令语言解释器（CLI），也叫做命令行用户界面，控制台用户界面和字符用户界面（CUI），是一种与用户（或客户端）的计算机程序交互的手段，以连续的文本行（命令行）的形式向程序发出命令。- [Wikipedia](https://en.wikipedia.org/wiki/Command-line_interface)
+> *命令行界面或命令语言解释器（CLI），也叫做命令行用户界面，控制台用户界面和字符用户界面（CUI），是一种与用户（或客户端）的计算机程序交互的手段，以连续的文本行（命令行）的形式向程序发出命令。*
+>
+> *- [维基百科](https://en.wikipedia.org/wiki/Command-line_interface)*
 
 <!-- General Learning:
 The Bash Guide [read]

@@ -1,5 +1,5 @@
 <!-- 2.2 - Front-End Job Titles -->
-# 2.2 - 前端职称
+# 2.2 前端职称
 <!-- A great divide has been brewing in the front-end developer space for several years between two very different types of so-called front-end developers. On the one side, you have JavaScript-focused programmers who write JavaScript for front-end runtimes that likely have computer science skills with a software development history. They more than likely view HTML and CSS as an abstraction (i.e. JSX and CSS in JS). On the other side, you have, most likely, non-computer science educated developers who focus on HTML, CSS, and JavaScript as it specifically pertains to the UI. In 2019, when entering or trying to understand the front-end developer space you will absolutely feel this divide. The term front-end developer is on the verge of meaninglessness without clarifying words to address what type of front-end developer is being discussed. -->
 
 [最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在巨大分歧](https://css-tricks.com/the-great-divide/)。在一方面，你拥有专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发史。他们更可能视HTML和CSS为一种抽象。（如[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）另一方面，你拥有最可能接受非计算机科学教育的开发者，他们专注于HTML，CSS和JavaScript，这些特别地与UI相关。在2019年，当进入或尝试明白前端开发者领域，你能绝对能感受到这分水岭。前端开发者这个词没有明确的定义，没有明确说明现在讨论的是哪种类型的前端开发者。
@@ -10,7 +10,7 @@
 
 <!-- Front-End Developer: The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform. -->
 
-**前端开发者**：一般的职业头衔，描述开发者对HTML，CSS，DOM，JavaScript具有一定熟练度，且能应用在网页平台上。
+**前端开发者**：常规职业头衔，描述开发者对HTML，CSS，DOM，JavaScript具有一定熟练度，且能应用在网页平台上。
 
 <!-- Front-End Engineer (aka JavaScript Developer or Full-stack JavaScript Developer): The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires computer science knowledge and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end software applications). -->
 
@@ -36,7 +36,7 @@
 
 <!-- Front-End Accessibility Expert: When the word "Accessibility" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards. -->
 
-**前端辅助性专家**：当头衔中包含“辅助性”时，这表明开发者具备以支持辅助性要求和标准来揉合前端技术的丰富经验。
+**前端可触达性专家**：当头衔中包含“可触达性”时，这表明开发者具备以支持可触达性要求和标准来揉合前端技术的丰富经验。
 
 <!-- Front-End Dev. Ops: When the word "DevOps" is included in the job title, this will denote that the developer has extensive experience with software development practices pertaining to collaboration, integration, deployment, automation, and quality. -->
 

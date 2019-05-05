@@ -1,5 +1,5 @@
 <!-- # 2.8 - Front-End Interviews -->
-# 2.8 - 前端面试
+# 2.8 前端面试
 <!-- Preparing: -->
 ### 准备：
 <!-- Preparing for a Front-End Web Development Interview in 2017 -->

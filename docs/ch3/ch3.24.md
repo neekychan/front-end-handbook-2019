@@ -1,5 +1,5 @@
 <!-- 3.24 - Learn Progressive Web App -->
-# 3.24 - 学习渐进式网页应用（PWA）
+# 3.24 学习渐进式网页应用（PWA）
 <!-- Unlike traditional applications, progressive web apps are a hybrid of regular web pages (or websites) and a mobile application. This new application model attempts to combine features offered by most modern browsers with the benefits of mobile experience. -->
 
 
@@ -7,11 +7,11 @@
 
 
 <!-- According to Google Developers, these characteristics are: -->
-> 与传统应用程序不同的是，渐进式网页应用混合了普通网页（网站）和移动应用程序。这种新的应用程序模型试图将大多数现代浏览器提供的功能与移动体验的好处结合起来。
+> *与传统应用程序不同的是，渐进式网页应用混合了普通网页（网站）和移动应用程序。这种新的应用程序模型试图将大多数现代浏览器提供的功能与移动体验的好处结合起来。*
 >
-> 在2015年，设计师朗西斯·贝里曼(Frances Berriman)和Google Chrome工程师亚历克斯·拉塞尔(Alex Russell)创造了”渐进式网页应用“这一术语，用此来描述利用现代浏览器所支持的新特性的应用程序，包括Service Workers和Web App Manifests，让用户将网页应用程序升级为原生操作系统的一等应用程序。
+> *在2015年，设计师朗西斯·贝里曼(Frances Berriman)和Google Chrome工程师亚历克斯·拉塞尔(Alex Russell)创造了”渐进式网页应用“这一术语，用此来描述利用现代浏览器所支持的新特性的应用程序，包括Service Workers和Web App Manifests，让用户将网页应用程序升级为原生操作系统的一等应用程序。*
 >
-> 依据Google开发者的介绍，这些特性是：
+> *依据Google开发者的介绍，这些特性是：*
 
 <!-- Progressive - Work for every user, regardless of browser choice because they’re built with progressive enhancement as a core tenet.
 Responsive - Fit any form factor: desktop, mobile, tablet, or forms yet to emerge.

@@ -2,11 +2,11 @@
 
 #### 任务或构建工具：
 
-*   [Gulp](http://gulpjs.com/)
+* [Gulp](http://gulpjs.com/)
 
 #### 自用任务或构建工具：
 
-*   [Brunch](http://brunch.io/)
+* [Brunch](http://brunch.io/)
 
 <!-- Before reaching for Gulp make sure npm scripts or yarn script won't fit the bill. Read, "Why I Left Gulp and Grunt for npm Scripts". -->
 

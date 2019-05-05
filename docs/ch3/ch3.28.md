@@ -1,13 +1,14 @@
 <!-- 3.28 - Learn Node.js -->
-# 3.28 - 学习Node.js
+# 3.28 学习Node.js
 <!-- Node.js is an open-source, cross-platform runtime environment for developing server-side web applications. Node.js applications are written in JavaScript and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System z and IBM i. Its work is hosted and supported by the Node.js Foundation, a collaborative project at Linux Foundation.
 
 Node.js provides an event-driven architecture and a non-blocking I/O API designed to optimize an application's throughput and scalability for real-time web applications. It uses Google V8 JavaScript engine to execute code, and a large percentage of the basic modules are written in JavaScript. Node.js contains a built-in library to allow applications to act as a web server without software such as Apache HTTP Server, Nginx or IIS.
 
 — Wikipedia -->
 
-> Node.js是一种开源，跨平台的运行时环境，用于开发服务端网页应用。Node.js程序是用JavaScript编写并且能运行在OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System z and IBM i上的Node.js运行时。它由Node.js基金会托管和支持，Linux基金会的一个合作性的项目。
-> Node.js提供一个事件驱动架构和一个非阻塞性 I/O API，被设计用于优化应用的通量和实时网页应用的可扩展性。它使用了Google V8 JavaScript引擎来执行代码，并且大比例的基础模块都是由JavaScript所编写。Node.js拥有一个内置的库，让应用程序无需使用诸如Apache HTTP服务器，Nginx或IIS等软件即可成为一个Web服务器。
+> *Node.js是一种开源，跨平台的运行时环境，用于开发服务端网页应用。Node.js程序是用JavaScript编写并且能运行在OS X, Microsoft Windows, Linux, FreeBSD, NonStop, IBM AIX, IBM System z and IBM i上的Node.js运行时。它由Node.js基金会托管和支持，Linux基金会的一个合作性的项目。*
+> 
+> *Node.js提供一个事件驱动架构和一个非阻塞性 I/O API，被设计用于优化应用的通量和实时网页应用的可扩展性。它使用了Google V8 JavaScript引擎来执行代码，并且大比例的基础模块都是由JavaScript所编写。Node.js拥有一个内置的库，让应用程序无需使用诸如Apache HTTP服务器，Nginx或IIS等软件即可成为一个Web服务器。*
 
 <!-- General Learning: -->
 #### 基础学习：

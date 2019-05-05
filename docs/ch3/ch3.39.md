@@ -1,9 +1,9 @@
 <!-- 3.39 - Learn Multi-Device Development -->
-# 3.39 - 学习多设备开发
+# 3.39 学习多设备开发
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/things.jpg)
 
-图片来源: [http://bradfrost.com/blog/post/this-is-the-web/](http://bradfrost.com/blog/post/this-is-the-web/)
+*图片来源: [http://bradfrost.com/blog/post/this-is-the-web/](http://bradfrost.com/blog/post/this-is-the-web/)*
 
 <!-- A website or web application can run on a wide range of computers, laptops, tablets and phones, as well as a handful of new devices (watches, thermostats, fridges, etc.). How you determine what devices you'll support and how you will develop to support those devices is called, "multi-device development strategy". Below, I list the most common multi-device development strategies. -->
 

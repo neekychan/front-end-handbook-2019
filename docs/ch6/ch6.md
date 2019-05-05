@@ -2,7 +2,7 @@
 ## 第6章 前端社区、简报、新闻网站和播客
 
 <!-- General Front-End Newsletters, News, & Podcasts: -->
-**一般的前端简报、新闻和播客：**
+**常规前端简报、新闻和播客：**
 
 <!-- The Big Web Show -->
 + [he Big Web Show](http://5by5.tv/bigwebshow)
@@ -53,7 +53,7 @@
 **HTML/CSS简报：**
 
 <!-- Accessibility Weekly -->
-+ [无障碍周刊](http://a11yweekly.com/)
++ [可触达性周刊](http://a11yweekly.com/)
 
 <!-- CSS Weekly -->
 + [CSS周刊](http://css-weekly.com/archives/)
@@ -65,7 +65,7 @@
 **JavaScript简报，新闻和播客：**
 
 <!-- Awesome JavaScript Newsletter -->
-+ [很棒的JavaScript简报](https://js.libhunt.com/newsletter?f=es-top-d)
++ [超赞的JavaScript简报](https://js.libhunt.com/newsletter?f=es-top-d)
 
 <!-- Echo JS -->
 + [Echo JS](http://www.echojs.com/)
@@ -111,7 +111,7 @@
 <!-- Need more Newsletters, News Sites, & Podcasts look at Awesome Newsletter. -->
 <!-- Find local front-end development communities by searching https://www.meetup.com/ -->
 > 提示：
-> 1.需要更多简报，新闻网站和播客看看[真棒咨讯](https://github.com/vredniy/awesome-newsletters)。
+> 1.需要更多简报，新闻网站和播客看看[超赞咨讯](https://github.com/vredniy/awesome-newsletters)。
 > 2.通过搜索[https://www.meetup.com/](https://www.meetup.com/)查找本地前端开发社区  
 
 <br>
