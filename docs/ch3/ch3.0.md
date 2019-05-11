@@ -1,9 +1,85 @@
-<!-- Chapter 3. Learning Front-end Dev: Self Directed Resources/Recommendations -->
-第3章 学习前端开发：自主导向的资源和建议
---------------------------------------------------------------------------
+## 第3章 学习前端开发：自学资源和建议
 
-<!-- This chapter highlights the many resources (video training, books, etc.) that an individual can use to direct their own learning process and career as a front-end developer. -->
-本章重点介绍了个人可以用来指导自己的学习过程和作为前端开发者的职业的许多资源（视频培训，书籍等）。
+本章重点介绍了个人可以用来指导自己的学习过程和成为职业的前端开发者的许多资源（视频培训，书籍等）。
 
-<!-- The learning resources identified (articles, books, videos, screencasts etc..) will include both free and paid material. Paid material will be indicated with \[$\]. -->
-所有的学习资源（文章，书籍，视频，截屏视频等）将包括免费和付费资料之分。 付费材料将以\[付费\]表示。
+所有的学习资源（文章，书籍，视频，截屏视频等）将包括免费和付费资料之分。 付费材料将以\付费\]表示。
+
+  * 3.1 学习互联网Web
+
+  * 3.2 学习Web浏览器
+
+  * 3.3 学习域名系统（DNS）
+
+  * 3.4 学习HTTP网络协议（包括CORS和WebSockets）
+
+  * 3.5 学习虚拟主机
+
+  * 3.6 学习前端开发基础
+
+  * 3.7 学习用户界面和交互设计
+
+  * 3.8 学习HTML和CSS
+
+  * 3.9 学习搜索引擎优化
+
+  * 3.10 学习JavaScript
+
+  * 3.11 学习DOM、BOM、CSSOM和jQuery
+
+  * 3.12 学习Web动画
+
+  * 3.13 学习Web字体、图标和图像
+
+  * 3.14 学习辅助功能
+
+  * 3.15 学习Web API 和浏览器API
+
+  * 3.16 学习JSON（JavaScript对象表示法）
+
+  * 3.17 学习JS模板
+
+  * 3.18 学习静态站点生成器
+
+  * 3.19 通过JS学习计算机科学
+
+  * 3.20 学习前端应用程序架构
+
+  * 3.21 学习数据API设计
+
+  * 3.22 学习React
+
+  * 3.23 学习应用程序状态管理
+
+  * 3.24 学习渐进式网页应用（PWA）
+
+  * 3.25 学习JS API设计
+
+  * 3.26 学习浏览器网页开发者工具
+
+  * 3.27 学习命令行（CLI）
+
+  * 3.28 学习Node.js
+
+  * 3.29 学习模块
+
+  * 3.30 学习模块Loader和Bundler
+
+  * 3.31 学习包管理器
+
+  * 3.32 学习版本控制
+
+  * 3.33 学习构建和任务自动化
+
+  * 3.34 学习站点性能优化
+
+  * 3.35 学习测试
+
+  * 3.36 学习无头浏览器
+
+  * 3.37 学习离线开发
+
+  * 3.38 学习Web安全、浏览器安全和应用程序安全
+
+  * 3.39 学习多设备开发
+
+  

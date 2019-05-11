@@ -1,6 +1,6 @@
 ### 5.27 测试工具
 
-#### 软件测试框架：
+**软件测试框架：**
 
 * [Intern](https://theintern.github.io/)
 
@@ -12,7 +12,7 @@
 
   * [Cheerio](https://github.com/cheeriojs/cheerio)
 
-#### 单元测试：
+**单元测试：**
 
 * [AVA](https://github.com/avajs/ava)
 
@@ -22,7 +22,7 @@
 
 * [Tape](https://github.com/substack/tape)
 
-#### 单元测试的测试断言：
+**单元测试的测试断言：**
 
 * [Chai](http://chaijs.com/)
 
@@ -30,14 +30,13 @@
 
 * [should.js](http://shouldjs.github.io/)
 
-<!-- Test Spies, Stubs, and Mocks for Unit Testing: -->
-#### 用于单元测试的测试监听，存根和模拟：
+**用于单元测试的测试监听，存根和模拟：**
 
 * [sinon.js](http://sinonjs.org/)
 
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
-#### 浏览器的托管测试和自动化：
+**浏览器的托管测试和自动化：**
 
 * [Browserling](https://www.browserling.com/) \[付费\]
 
@@ -49,7 +48,7 @@
 
 * [Sauce Labs](https://saucelabs.com/) \[付费\]
 
-#### 集成和功能测试：
+**集成和功能测试：**
 
 * [Cypress](https://www.cypress.io/)
 
@@ -57,7 +56,7 @@
 
 * [WebDriver.io](http://webdriver.io/)
 
-#### 浏览器自动化：
+**浏览器自动化：**
 
 * [CasperJS](http://casperjs.org/)
 
@@ -65,7 +64,7 @@
 
 * [TestCafe](https://github.com/DevExpress/testcafe)
 
-#### UI测试工具：
+**UI测试工具：**
 
 * [gremlins.js](https://github.com/marmelab/gremlins.js)
 
@@ -75,14 +74,15 @@
 
 * [PhantomCSS](https://github.com/Huddle/PhantomCSS)
 
-* [Ghost Inspector](https://ghostinspector.com/)
+* [Ghost检查工具](https://ghostinspector.com/)
 
 * [diff.io](https://diff.io/)
 
-#### 死链和错误链接自动检测器：
+**死链和错误链接自动检测器：**
 
 * [Monkey Test It](https://monkeytest.it/)
 
-#### HTTP存根
+**HTTP存根**
 
 * [Polly.JS](https://netflix.github.io/pollyjs/#/README)
+

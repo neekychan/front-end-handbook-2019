@@ -10,4 +10,5 @@
 
 * [Workbox](https://developers.google.com/web/tools/workbox/)
 
-更多相关工具，请查看 [这里](https://github.com/pazguille/offline-first#tools).
+更多相关工具，请查看 [这里](https://github.com/pazguille/offline-first#tools)。
+

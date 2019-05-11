@@ -1,6 +1,6 @@
 ### 5.20 模板和数据绑定工具
 
-#### 模板:
+**模板:**
 
 * [doT.js](http://olado.github.io/doT/)
 
@@ -8,7 +8,7 @@
 
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 
-#### 模板和双向数据绑定:
+**模板和双向数据绑定:**
 
 * [ractive.js](https://ractive.js.org/)
 
@@ -28,6 +28,7 @@
 
 * [vue.js](http://vuejs.org/)
 
-#### 虚拟DOM模板:
+**虚拟DOM模板:**
 
 * [JSX](https://facebook.github.io/jsx/)
+

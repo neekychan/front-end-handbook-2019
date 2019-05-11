@@ -1,7 +1,6 @@
-<!-- 3.6 - Learn General Front-End Development -->
 ### 3.6 学习前端开发基础
 
-* [网上每天的前端训练营](https://github.com/Microsoft/frontend-bootcamp) \[阅读\]
+* [每天的网上前端训练营](https://github.com/Microsoft/frontend-bootcamp) \[阅读\]
 
 * [准备成为职业的Web开发](https://frontendmasters.com/learn/beginner/)
 
@@ -27,7 +26,7 @@
 
 * [学习Web前端开发](https://teamtreehouse.com/tracks/front-end-web-development) \[观看\]\[付费\]
 
-* [那么，你想成为一名前端工程师吗](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[观看\]
+* [你想成为一名前端工程师吗](https://www.youtube.com/watch?v=Lsg84NtJbmI) \[观看\]
 
 * [codecademy.com: 学习Web开发路线](https://www.codecademy.com/learn/paths/web-development) \[互动\]\[免费\]
 

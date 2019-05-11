@@ -1,18 +1,18 @@
-### 5.23 图形（SVG，canvas，WebGL）工具
+### 5.23 图形（SVG、canvas、WebGL）工具
 
-#### 常规:
+**常规:**
 
 * [Fabric.js](http://fabricjs.com/)
 
 * [Two.js](http://jonobr1.github.io/two.js/#introduction)
 
-#### Canvas:
+**Canvas:**
 
 * [EaselJS](https://github.com/CreateJS/EaselJS)
 
 * [Paper.js](http://paperjs.org/)
 
-#### SVG:
+**SVG:**
 
 * [d3](http://d3js.org/)
 
@@ -24,8 +24,9 @@
 
 * [svg.js](http://svgjs.com/)
 
-#### WebGL:
+**WebGL:**
 
 * [pixi.js](https://github.com/pixijs/pixi.js)
 
 * [three.js](http://threejs.org/)
+

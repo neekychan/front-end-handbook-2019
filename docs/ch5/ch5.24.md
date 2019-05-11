@@ -1,6 +1,6 @@
 ### 5.24 动画工具
 
-#### CSS和JavaScript实用工具：
+**CSS和JavaScript实用工具：**
 
 * [Animate Plus](https://github.com/bendc/animateplus)
 
@@ -28,10 +28,11 @@
 
 * [Velocity.js](http://julian.com/research/velocity/)
 
-#### Polyfills/Shims:
+**Polyfills/Shims:**
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 
-#### 动画的参考文献：
+**动画的参考文献：**
 
 * [canianimate.com](http://canianimate.com/)
+

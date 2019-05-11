@@ -1,5 +1,6 @@
-### 5.12 无头内容管理系统工具
+### 5.12 无头内容管理系统(CMS)工具
 
-#### 站点生成器列表：
+**站点生成器列表：**
 
-* [headless CMS](https://headlesscms.org/)
+* [无头CMS](https://headlesscms.org/)
+

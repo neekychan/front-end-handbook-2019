@@ -19,3 +19,4 @@
 * [RxDB](https://pubkey.github.io/rxdb/install.html)
 
 * [ImmortalDB](https://github.com/gruns/ImmortalDB)
+

@@ -1,13 +1,10 @@
-<!-- 3.10 - Learn JavaScript  -->
 ### 3.10 学习JavaScript
 
-<!-- JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
-— [Wikipedia](https://en.wikipedia.org/wiki/JavaScript) -->
 > *JavaScript是一种高级，动态，无类型和解释型编程语言。 它已在ECMAScript语言规范中标准化。 除HTML和CSS外，它还是万维网内容制作的三大基本技术之一; 大多数网站都使用它，所有没有插件的现代网络浏览器都支持它。 JavaScript是基于原型的第一类函数，使其成为一种多范式语言，支持面向对象，命令式和函数式编程风格。 它具有用于处理文本，数组，日期和正则表达式的API，但不包括任何I/O，例如网络，存储或图形工具，在嵌入它的主机环境中依赖它们。*
 >
 > *— [维基百科]（https://en.wikipedia.org/wiki/JavaScript）& [中文地址](https://zh.wikipedia.org/wiki/JavaScript)*
 
-#### 入门:
+**入门:**
 
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) \[阅读\]
 
@@ -17,13 +14,13 @@
 
 * [动人的JavaScript](http://eloquentjavascript.net/) \[阅读\]
 
-#### 基础学习：
+**基础学习：**
 
 * [说说JavaScript](http://speakingjs.com/es5/index.html) \[阅读\]
 
-* [不耐烦程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
+* [没耐心程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
 
-* [你不知道JS：Up＆Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
+* [你不知道JS：Up和Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
 
 * [你不懂JS：类型和语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[阅读\]
 
@@ -37,7 +34,7 @@
 
 * [JavaScript的深层基础 (v3)](https://frontendmasters.com/courses/deep-javascript-v3/) \[观看\]\[付费\]
 
-#### 掌握：
+**掌握：**
 
 * [配置ES6](https://leanpub.com/setting-up-es6) \[阅读\]
 
@@ -45,11 +42,11 @@
 
 * [ES6探索](http://exploringjs.com/es6.html) \[阅读\]
 
-* [你不知道的JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) \[阅读\]
+* [你不知道的JS: ES6 和 Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) \[阅读\]
 
 * [了解ECMAScript 6：JavaScript开发者权威指南](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-* [JavaScript: The Recent Parts](https://frontendmasters.com/courses/js-recent-parts/) \[观看\]\[付费\]
+* [JavaScript: 最新部分](https://frontendmasters.com/courses/js-recent-parts/) \[观看\]\[付费\]
 
 * [探索ES2016和ES2017](http://exploringjs.com/es2016-es2017/index.html) \[阅读\]
 
@@ -59,23 +56,23 @@
 
 * [使用正则表达式](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) \[观看\]\[付费\]
 
-* [你不知道的JS: Async & 性能](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[阅读\]
+* [你不知道的JS: Async 和 性能](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) \[阅读\]
 
 * [JavaScript中的Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) \[阅读\]\[付费\]
 
 * [测试驱动的JavaScript开发](http://www.amazon.com/dp/0321683919/) \[阅读\]\[付费\]
 
-* [JS MythBusters](https://mythbusters.js.org/index.html) \[阅读\]
+* [JS传闻](https://mythbusters.js.org/index.html) \[阅读\]
 
 * [强大的JavaScript](https://molily.de/robust-javascript/) \[阅读\]
 
 * [JavaScript算法和数据结构](https://github.com/trekhleb/javascript-algorithms#readme) \[阅读\]
 
-* [每个JavaScript开发者应该知道的33个概念](https://github.com/leonardomso/33-js-concepts) \[阅读\]
+* [每个JavaScript开发者都应该知道的33个概念](https://github.com/leonardomso/33-js-concepts) \[阅读\]
 
 * [doesitmutate.xyz](https://doesitmutate.xyz/) \[阅读\]
 
-#### JavaScript函数式:
+**JavaScript函数式:**
 
 * [函数式编程术语](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
 
@@ -95,21 +92,21 @@
 
 * [JavaScript中硬核的函数式编程](https://frontendmasters.com/courses/functional-javascript/) \[观看\]\[付费\]
 
-#### 参考文献和文档：
+**参考文献和文档：**
 
 * [MDN JavaScript参考](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 * [MSDN JavaScript参考](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
 
-#### 词汇/百科全书/专业术语：
+**词汇/百科全书/专业术语：**
 
 * [JavaScript百科全书](http://www.crockford.com/javascript/encyclopedia/)
 
 * [JavaScript词汇表](https://www.codecademy.com/articles/glossary-javascript)
 
-* [简化的JavaScript专业术语](http://jargon.js.org/)
+* [JavaScript简化的专业术语](http://jargon.js.org/)
 
-#### 标准/规范：
+**标准/规范：**
 
 * [如何阅读ECMAScript规范](https://timothygu.me/es-howto/)
 
@@ -125,7 +122,7 @@
 
 * [ECMA262的状态、流程和文档](https://github.com/tc39/ecma262)
 
-#### 样式：
+**样式：**
 
 * [JavaScript Airbnb风格指南](http://airbnb.io/javascript/)
 
@@ -133,19 +130,19 @@
 
 * [JavaScript半标准风格](https://github.com/Flet/semistandard)
 
-#### 不推荐使用的JS学习资源：
+**不推荐使用的JS学习资源：**
 
-* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[观看\]
+* [Crockford on JavaScript - 第一卷: 早年](https://www.youtube.com/watch?v=JxAXlJEmNMg) \[观看\]
 
-* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) \[观看\]
+* [Crockford on JavaScript - 第二章: 然后是JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) \[观看\]
 
-* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) \[观看\]
+* [Crockford on JavaScript - 第三幕:终极功能](https://www.youtube.com/watch?v=ya4UHuXNygM) \[观看\]
 
-* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) \[观看\]
+* [Crockford on JavaScript - 第四集:Ajax的蜕变](https://www.youtube.com/watch?v=Fv9qT9joc0M) \[观看\]
 
-* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) \[观看\]
+* [Crockford on JavaScript - 第五部分:万物终结](https://www.youtube.com/watch?v=47Ceot8yqeI) \[观看\]
 
-* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) \[观看\]
+* [Crockford on JavaScript - 场景6:Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) \[观看\]
 
 * [JavaScript模式](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) \[阅读\]\[付费\]
 
@@ -159,10 +156,11 @@
 
 * [高性能JavaScript（构建更快的Web应用程序接口）](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) \[阅读\]\[付费\]
 
-#### JS搜索可视化:
+**JS搜索可视化:**
 
-* [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
+* [JavaScript Array探索](https://sdras.github.io/array-explorer/)
 
-* [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
+* [JavaScript Object探索](https://sdras.github.io/object-explorer/)
 
-* [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/)
+* [JavaScript可视化](https://tylermcginnis.com/javascript-visualizer/)
+

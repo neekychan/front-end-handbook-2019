@@ -6,7 +6,7 @@
 
 下载：[PDF](https://github.com/FrontendMasters/front-end-handbook-2019/raw/master/exports/Front-end%20Developer%20Handbook%202019.pdf) | [epub](https://github.com/FrontendMasters/front-end-handbook-2019/raw/master/exports/Front-End%20Developer%20Handbook%202019.epub)
 
-翻译&校验：[neekychan](https://github.com/neekychan)([微博](https://weibo.com/cwlay)) & [freedom](https://github.com/yylifen) 
+翻译&校验：[neekychan](https://github.com/neekychan)([微博](https://weibo.com/cwlay)) 和 [freedom](https://github.com/yylifen) 
 
 <img src="https://frontendmasters.com/books/front-end-handbook/2019/assets/images/FM_2019Cover_final.jpg" alt="前端开发者手册2019" title="前端开发者手册2019" height="600" />
 
