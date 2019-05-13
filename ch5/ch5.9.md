@@ -52,7 +52,7 @@
 > 
 > *—[cssreset.com](http://cssreset.com/what-is-a-css-reset/)*
 
-* [Eric Meyer's “Reset CSS” 2.0](https://meyerweb.com/eric/tools/css/reset/)
+* [Eric Meyer的“Reset CSS” 2.0](https://meyerweb.com/eric/tools/css/reset/)
 
 * [Normalize](https://necolas.github.io/normalize.css/)
 

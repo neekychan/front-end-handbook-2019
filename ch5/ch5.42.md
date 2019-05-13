@@ -8,7 +8,7 @@
 
 + [sitespeed.io](https://www.sitespeed.io/)
 
-+ [速度曲线](https://speedcurve.com/)[$]
++ [速度曲线](https://speedcurve.com/)[付费]
 
 + [Web页面测试](http://www.webpagetest.org/)
 
@@ -16,7 +16,7 @@
 
 + [webhint.io](https://webhint.io/)
 
-+ [Datadog](https://www.datadoghq.com/)[$]
++ [Datadog](https://www.datadoghq.com/)[付费]
 
 + [Lighthosue](https://developers.google.com/web/tools/lighthouse/)
 

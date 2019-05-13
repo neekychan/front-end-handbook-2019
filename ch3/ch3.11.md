@@ -22,7 +22,7 @@
 
 * [HTML/JS: 使网页互动](https://www.khanacademy.org/computing/computer-programming/html-css-js) \[观看\]
 
-* [HTML/JS: 使用jQuery使网页交互](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) \[观看\]
+* [HTML/JS: 使用jQuery制作可交互的网页应用](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) \[观看\]
 
 * [jQuery启蒙](http://jqueryenlightenment.com/) \[阅读\]
 

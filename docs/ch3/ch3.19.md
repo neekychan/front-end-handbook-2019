@@ -1,8 +1,8 @@
 ### 3.19 通过JS学习计算机科学
 
-* [六个小时完成四个学期的计算机科学课](https://frontendmasters.com/courses/computer-science/) \[视频\]\[付费\]
+* [六小时完成四个学期的计算机科学课](https://frontendmasters.com/courses/computer-science/) \[视频\]\[付费\]
 
-* [六个小时完成四个学期的计算机科学: 第二部分](https://frontendmasters.com/courses/computer-science-2/) \[视频\]\[付费\]
+* [六小时完成四个学期的计算机科学: 第二部分](https://frontendmasters.com/courses/computer-science-2/) \[视频\]\[付费\]
 
 * [JavaScript中的计算机科学](https://github.com/davidshariff/computer-science) \[阅读\]
 

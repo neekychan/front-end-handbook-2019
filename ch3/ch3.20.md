@@ -4,7 +4,7 @@
 
 * [掌握前端指南](https://github.com/grab/front-end-guide) \[观看\]
 
-* [JavaScript项目的一组最佳实践](https://github.com/elsewhencode/project-guidelines)
+* [一组JavaScript项目的最佳实践](https://github.com/elsewhencode/project-guidelines)
 
 * [现代Web开发的拼写书](https://github.com/dexteryy/spellbook-of-modern-webdev)
 

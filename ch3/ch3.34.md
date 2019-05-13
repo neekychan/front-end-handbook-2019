@@ -1,6 +1,6 @@
 ### 3.34 学习站点性能优化
 
-> *Web性能优化，WPO或网站优化是关于提升那些在用户web浏览器中已下载和已展示web页面的速度的只是领域。随着全球平局网络速度的提升，网站管理者和站长应该考虑呈现给用户的网站耗时。*
+> *Web性能优化，WPO或网站优化是关于提升那些在用户web浏览器中已下载和已展示web页面的速度的只是知识领域。随着全球平局网络速度的提升，网站管理者和站长应该考虑呈现给用户的网站耗时。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Web_performance_optimization)*
 >
@@ -15,7 +15,7 @@
 
 - [JavaScript性能Rock](http://javascriptrocks.com/) [阅读][付费]
 
-- [页面速度洞察规则][https://developers.google.com/speed/docs/insights/rules][阅读]
+- [页面速度洞察规则](https://developers.google.com/speed/docs/insights/rules)[阅读]
 
 - [最新的性能工具](http://www.perf-tooling.today/) [阅读]
 

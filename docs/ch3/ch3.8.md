@@ -53,7 +53,7 @@
 
 **掌握CSS：**
 
-* [Flexbox完整指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[阅读\]
+* [Flexbox完全指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[阅读\]
 
 * [用于响应式网页设计的CSS网格和Flexbox](https://frontendmasters.com/courses/css-grids-flexbox/) \[观看\]\[付费\]
 

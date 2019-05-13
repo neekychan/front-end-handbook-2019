@@ -37,8 +37,8 @@
 
 **标准和规范:**
 
-* [无障碍的富Internet应用程序(WAI-ARIA)当前状态](http://www.w3.org/standards/techs/aria#w3c_all)
+* [无障碍的富Internet应用程序(WAI-ARIA)现状](http://www.w3.org/standards/techs/aria#w3c_all)
 
 * [无障碍网页计划(WAI)](http://www.w3.org/WAI/)
 
-* [Web内容无障碍指南(WCAG)的当前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
+* [Web内容无障碍指南(WCAG)的现状](http://www.w3.org/standards/techs/wcag#w3c_all)

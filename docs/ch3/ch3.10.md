@@ -2,7 +2,7 @@
 
 > *JavaScript是一种高级，动态，无类型和解释型编程语言。 它已在ECMAScript语言规范中标准化。 除HTML和CSS外，它还是万维网内容制作的三大基本技术之一; 大多数网站都使用它，所有没有插件的现代网络浏览器都支持它。 JavaScript是基于原型的第一类函数，使其成为一种多范式语言，支持面向对象，命令式和函数式编程风格。 它具有用于处理文本，数组，日期和正则表达式的API，但不包括任何I/O，例如网络，存储或图形工具，在嵌入它的主机环境中依赖它们。*
 >
-> *— [维基百科]（https://en.wikipedia.org/wiki/JavaScript）& [中文地址](https://zh.wikipedia.org/wiki/JavaScript)*
+> *— [维基百科](https://en.wikipedia.org/wiki/JavaScript)& [中文地址](https://zh.wikipedia.org/wiki/JavaScript)*
 
 **入门:**
 
@@ -20,13 +20,13 @@
 
 * [没耐心程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
 
-* [你不知道JS：Up和Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
+* [你不知道的JS：Up和Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
 
-* [你不懂JS：类型和语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[阅读\]
+* [你不知道的JS：类型和语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[阅读\]
 
-* [你不知道JS：域和闭包](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) \[阅读\]
+* [你不知道的JS：域和闭包](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) \[阅读\]
 
-* [不知道JS：this和对象原型](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) \[阅读\]
+* [你不知道的JS：this和对象原型](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) \[阅读\]
 
 * [现代JavaScript备忘清单 — 给你一份现代项目中经常遇到的JavaScript知识备忘清单。](https://github.com/mbeaudru/modern-js-cheatsheet) \[阅读\]
 
@@ -82,7 +82,7 @@
 
 * [JavaScript中的函数式编程：如何使用函数改进JavaScript程序](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) \[阅读\]
 
-* [函数式编程完整指南 (javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) \[阅读\]
+* [函数式编程完全指南 (javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) \[阅读\]
 
 * [Frisby教授推出可组合函数式的JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) \[观看\]
 

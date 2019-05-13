@@ -38,7 +38,7 @@
 
 * [HTTP状态码](https://httpstatuses.com/)
 
-* [HTTP60秒内的状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[观看\]
+* [一分钟速学HTTP状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[观看\]
 
 > *<b>CORS</b> — 跨域资源共享（CORS）是一种允许从来自资源的域外的另一个域请求网页上的受限资源（例如，字体）的机制。*
 >

@@ -6,8 +6,7 @@
 
 * [jQuery](http://jquery.com/)
 
-  * [你不需要jQuery]
-  (https://github.com/oneuijs/You-Dont-Need-jQuery)
+  * [你不需要jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 * [Zepto](http://zeptojs.com/)
 

@@ -72,7 +72,7 @@
 
 * [todomvc.com](http://todomvc.com/)
 
-* [RealWorld示例应用程序](https://github.com/gothinkster/realworld) \[code\]
+* [RealWorld示例应用程序](https://github.com/gothinkster/realworld) \[代码\]
 
 * [前端准则草案](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 

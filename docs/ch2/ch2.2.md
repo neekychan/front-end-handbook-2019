@@ -1,6 +1,6 @@
 ### 2.2 前端职称
 
-[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在着巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试明白前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
+[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在着巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试了解前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
 
 以下是各种前端职称的列表和描述（记住职称是[很难](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)）。最常用的前端开发者职称是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“Web UI”，“HTML”，“CSS”或“JavaScript”字眼职位的人，通常是指在HTML，CSS，DOM和JavaScript上有一定程度专业知识的人。
 

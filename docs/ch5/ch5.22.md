@@ -24,7 +24,7 @@
 
 * [Google图表](https://developers.google.com/chart/interactive/docs/)
 
-* [Highcharts](http://www.highcharts.com/) \[非商业 部分免费\]
+* [Highcharts](http://www.highcharts.com/) \[非商业部分免费\]
 
 * [ZingChart](http://www.zingchart.com/) \[部分免费\]
 

@@ -224,17 +224,17 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 5. 学习DOM
 
-6. 学习用户界面设计的基础原理 (UI模式、交互设计、用户体验设计和可用性).
+6. 学习用户界面设计的基础原理 (UI模式、交互设计、用户体验设计和可用性)
 
 7. 学习CLI和命令行
 
 8. 学习软件工程的实践（例如，应用程序设计与架构、模板、Git、测试、监控、自动化、代码质量和开发方法论）
 
-9. 不要固执己见，用任何对你的大脑有意义的东西(例如，Webpack、React和Mobx)定制你的工具箱。
+9. 不要固执己见，用任何对你的大脑有意义的东西(例如，Webpack、React和Mobx)定制你的工具箱
 
 10. 学习Node.js
 
-简单地说一下学习建议，[在学习抽象概念前，先学习基础的底层技术](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL)。不要学习jQuery，先学DOM。不要学SASS，先学CSS。不要学习JSX，先学HTML，不要学TypeScript，先学JavaScript。不要学Handlebars，先学JavaScript ES6模板，不要学BootStrap，先学UI模式.
+简单地说一下学习建议，[在学习抽象概念前，先学习基础的底层技术](https://youtu.be/QjKH1J77gjI?list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL)。不要学习jQuery，先学DOM。不要学SASS，先学CSS。不要学习JSX，先学HTML，不要学TypeScript，先学JavaScript。不要学Handlebars，先学JavaScript ES6模板，不要学BootStrap，先学UI模式。
 
 最近出现了许多未经认证的、昂贵的前端代码学校和训练营。这些学校通常是由那些来自官方学院的老师遵循传统教学模式授课（课程大纲、考试、小考、专题、小组专题和成绩等）。
 
@@ -260,11 +260,11 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 当你准备开始的时候，你应该会对大部分复杂的内容感到担忧。抽象（例如，jQuery）落入错误的人手中，让人看起来是种高级的技能。但始终隐藏着一个事实，开发者对基础和底层的概念理解较差。
 
-假设，在这个过程中你不单只是学习，也在实践你所学和研究的工具。有些人建议实践只是为了学习，当其他人建议只学习如何去实践的时候。我建议你找一种与你大脑运作方式相匹配的方法去实践。但是，可以肯定的是，这是一种融合。所以，不要只看不实践。学习，实践。学习，实践。不停地重复，因为事情总是变化得很快。这就是为什么要学习基本原理而不是抽象概念十分重要。
+假设，在这个过程中你不单只是学习，也在实践你所学和研究的工具。有些人建议实践只是为了学习，当其他人建议只学习如何去实践的时候，我建议你找一种与你大脑运作方式相匹配的方法去实践。但是，可以肯定的是，这是一种融合。所以，不要只看不实践。学习，实践。学习，实践。不停地重复，因为事情总是变化得很快。这就是为什么要学习基本原理而不是抽象概念十分重要。
 
 ### 2.2 前端职称
 
-[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在着巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试明白前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
+[最近几年来，两种不同类型的前端开发者之间，在前端领域一直存在着巨大分歧](https://css-tricks.com/the-great-divide/)。一方面，专注于JavaScript的程序员，他们为前端运行时编写JavaScript，他们可能拥有计算机科学技能和软件开发背景。他们很可能视HTML和CSS为一种抽象（例如，[JSX](https://reactjs.org/docs/introducing-jsx.html)和[CSS in JS](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)）。另一方面，很可能是非计算机科学出身的开发者，他们专注于HTML，CSS和JavaScript，因为它们专门属于UI。在2019年，进入或尝试了解前端开发者领域时，你能绝对能感受到这种分歧。“前端开发者”这个术语没有明确的定义，没有明确的词语来说明正在讨论的是哪种类型的前端开发者。
 
 以下是各种前端职称的列表和描述（记住职称是[很难](https://blog.prototypr.io/dissecting-front-end-job-titles-7f72a0ef0bc5)）。最常用的前端开发者职称是，“前端开发者”或“前端工程师”。注意，任何带有“前端”，“客户端”，“Web UI”，“HTML”，“CSS”或“JavaScript”字眼职位的人，通常是指在HTML，CSS，DOM和JavaScript上有一定程度专业知识的人。
 
@@ -581,8 +581,9 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 - [其他](https://en.wikipedia.org/wiki/Internet_of_things)（例如：任何能想象的到的东西，汽车、冰箱、电灯、恒温器等等）
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/growth-iot.jpg)
-*图片来源: [https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/](https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/)
-*
+
+*图片来源:[https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/](https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/)*
+
 
 普遍来说，前端技术能够运行在上述操作系统和使用在以下运行时的Web平台设备中：
 
@@ -608,7 +609,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 - 后端开发者（编写运行在服务器的代码）
 
-这些角色是依据重叠的技能排序的。前端开发者通常比后端后端开发更擅长于处理UI或交互设计以及后端开发。团队成员通过承担重叠角色的职责来担任多个角色的情况并不少见。
+这些角色是依据重叠的技能排序的。前端开发者通常比后端开发更擅长于处理UI或交互设计以及后端开发。团队成员通过承担重叠角色的职责来担任多个角色的情况并不少见。
 
 假设上面提到的团队是由项目负责人或某种产品负责人(即，利益相关者、项目经理、项目负责人等等)
 
@@ -891,7 +892,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [HTTP状态码](https://httpstatuses.com/)
 
-* [HTTP60秒内的状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[观看\]
+* [一分钟速学HTTP状态码](http://webdesign.tutsplus.com/tutorials/http-status-codes-in-60-seconds--cms-24317) \[观看\]
 
 > *<b>CORS</b> — 跨域资源共享（CORS）是一种允许从来自资源的域外的另一个域请求网页上的受限资源（例如，字体）的机制。*
 >
@@ -969,12 +970,12 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 ### 3.7 学习用户界面和交互设计
 
-> *<b>用户界面设计</b> — 用户界面设计（UI）或用户界面工程是机器和软件（如计算机，家用电器，移动设备和其他电子设备）的用户界面设计，重点是 最大化用户体验。 用户界面设计的目标是在完成用户目标（以用户为中心的设计）方面使用户的交互尽可能简单有效。*
+> *<b>用户界面设计</b> — 用户界面设计（UI）或用户界面工程是机器和软件（如计算机，家用电器，移动设备和其他电子设备）的用户界面设计，重点是最大化用户体验。 用户界面设计的目标是在完成用户目标（以用户为中心的设计）方面使用户的交互尽可能简单有效。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/User_interface_design) & [中文地址](https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1)*
 >
 
-> *<b>交互设计模式</b> — 设计模式是记录常见设计问题解决方案的正式方式。 这个想法是由建筑师克里斯托弗亚历山大介绍用于城市规划和建筑建筑，并已适应各种其他学科，包括教学和教学，开发组织和过程，软件架构和设计。*
+> *<b>交互设计模式</b> — 设计模式是记录常见设计问题解决方案的正式方式。 这个想法是由建筑师克里斯托弗亚历山大介绍用于城市规划和建筑建造，并已适用各种其他学科，包括教学和教学，开发组织和过程，软件架构和设计。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Design_pattern) & [中文地址](https://zh.wikipedia.org/wiki/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1)*
 >
@@ -992,7 +993,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [关于表面：交互设计的要点](https://www.amazon.com/About-Face-Essentials-Interaction-Design-ebook/dp/B00MFPZ9UY/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=c723c84ad4d246cb7f1c4a737c5f38a4&camp=1789&creative=9325) \[阅读\]\[付费\]
 
-* [黑客设计：逆向工程美](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) \[阅读\]\[付费\]
+* [黑客设计：逆向工程之美](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=2a52f0968de21c03f069d857b9d92b37&camp=1789&creative=9325) \[阅读\]\[付费\]
 
 * [非设计师设计](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) \[观看\]
 
@@ -1057,7 +1058,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 **掌握CSS：**
 
-* [Flexbox完整指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[阅读\]
+* [Flexbox完全指南](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \[阅读\]
 
 * [用于响应式网页设计的CSS网格和Flexbox](https://frontendmasters.com/courses/css-grids-flexbox/) \[观看\]\[付费\]
 
@@ -1157,7 +1158,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 > *搜索引擎优化（SEO）是影响搜索引擎未付费结果中网站或网页可见性的过程 - 通常称为“自然”，“有机”或“获得”结果。 通常，较早（或在搜索结果页面上排名更高），并且搜索结果列表中出现更频繁的网站，它将从搜索引擎的用户收到的访问者越多。 SEO可以针对不同类型的搜索，包括图像搜索，本地搜索，视频搜索，学术搜索，新闻搜索和行业特定的垂直搜索引擎。*
 >
-> *— [维基百科]（https://en.wikipedia.org/wiki/Search_engine_optimization）& [中文地址](https://zh.wikipedia.org/wiki/%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E%E6%9C%80%E4%BD%B3%E5%8C%96)*
+> *— [维基百科](https://en.wikipedia.org/wiki/Search_engine_optimization)& [中文地址](https://zh.wikipedia.org/wiki/%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E%E6%9C%80%E4%BD%B3%E5%8C%96)*
 
 ![](https://frontendmasters.com/books/front-end-handbook/2019/assets/images/how-does-seo-work.jpg)
 
@@ -1181,7 +1182,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 > *JavaScript是一种高级，动态，无类型和解释型编程语言。 它已在ECMAScript语言规范中标准化。 除HTML和CSS外，它还是万维网内容制作的三大基本技术之一; 大多数网站都使用它，所有没有插件的现代网络浏览器都支持它。 JavaScript是基于原型的第一类函数，使其成为一种多范式语言，支持面向对象，命令式和函数式编程风格。 它具有用于处理文本，数组，日期和正则表达式的API，但不包括任何I/O，例如网络，存储或图形工具，在嵌入它的主机环境中依赖它们。*
 >
-> *— [维基百科]（https://en.wikipedia.org/wiki/JavaScript）& [中文地址](https://zh.wikipedia.org/wiki/JavaScript)*
+> *— [维基百科](https://en.wikipedia.org/wiki/JavaScript)& [中文地址](https://zh.wikipedia.org/wiki/JavaScript)*
 
 **入门:**
 
@@ -1199,13 +1200,13 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [没耐心程序员的JavaScript](http://exploringjs.com/impatient-js/index.html) \[阅读\]
 
-* [你不知道JS：Up和Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
+* [你不知道的JS：Up和Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) \[阅读\]
 
-* [你不懂JS：类型和语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[阅读\]
+* [你不知道的JS：类型和语法](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) \[阅读\]
 
-* [你不知道JS：域和闭包](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) \[阅读\]
+* [你不知道的JS：域和闭包](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) \[阅读\]
 
-* [不知道JS：this和对象原型](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) \[阅读\]
+* [你不知道的JS：this和对象原型](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) \[阅读\]
 
 * [现代JavaScript备忘清单 — 给你一份现代项目中经常遇到的JavaScript知识备忘清单。](https://github.com/mbeaudru/modern-js-cheatsheet) \[阅读\]
 
@@ -1261,7 +1262,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [JavaScript中的函数式编程：如何使用函数改进JavaScript程序](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) \[阅读\]
 
-* [函数式编程完整指南 (javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) \[阅读\]
+* [函数式编程完全指南 (javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) \[阅读\]
 
 * [Frisby教授推出可组合函数式的JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) \[观看\]
 
@@ -1367,7 +1368,7 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 * [HTML/JS: 使网页互动](https://www.khanacademy.org/computing/computer-programming/html-css-js) \[观看\]
 
-* [HTML/JS: 使用jQuery使网页交互](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) \[观看\]
+* [HTML/JS: 使用jQuery制作可交互的网页应用](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) \[观看\]
 
 * [jQuery启蒙](http://jqueryenlightenment.com/) \[阅读\]
 
@@ -1528,11 +1529,11 @@ Web浏览器是用来检索、展示、遍历[WWW](https://en.wikipedia.org/wiki
 
 **标准和规范:**
 
-* [无障碍的富Internet应用程序(WAI-ARIA)当前状态](http://www.w3.org/standards/techs/aria#w3c_all)
+* [无障碍的富Internet应用程序(WAI-ARIA)现状](http://www.w3.org/standards/techs/aria#w3c_all)
 
 * [无障碍网页计划(WAI)](http://www.w3.org/WAI/)
 
-* [Web内容无障碍指南(WCAG)的当前状态](http://www.w3.org/standards/techs/wcag#w3c_all)
+* [Web内容无障碍指南(WCAG)的现状](http://www.w3.org/standards/techs/wcag#w3c_all)
 
 ### 3.15 学习Web API 和浏览器API
 
@@ -1564,7 +1565,7 @@ MDN有大量关于Web API 和浏览器API的信息。
 
 ### 3.16 学习JSON（JavaScript对象表示法）
 
-> *JSON是一种开放的标准格式，它使用人类可读的文本来传输由属性值对组成的数据对象。它是用于异步浏览器/服务器通信(AJAJ)的主要数据格式，在很大程度上替代了XML(AJAX使用的就是这种方式)。*
+> *JSON是一种开放的标准格式，它使用可读的文本来传输由属性值对组成的数据对象。它是用于异步浏览器/服务器通信(AJAJ)的主要数据格式，在很大程度上替代了XML(AJAX使用的就是这种方式)。*
 > 
 
 > *虽然JSON最初源于JavaScript脚本语言，但它是一种独立于语言的数据格式。解析和生成JSON数据的代码在许多编程语言中都是可用的。*
@@ -1605,15 +1606,15 @@ JavaScript模板通常用于将视图的各个部分(UI)与逻辑和模型(数�
 
 * [从nunjucks开始](http://mozilla.github.io/nunjucks/getting-started.html) \[阅读\]
 
-* [Lodash模板](https://lodash.com/docs/4.17.2#template) \[docs\]
+* [Lodash模板](https://lodash.com/docs/4.17.2#template) \[文档\]
 
-注意到JavaScript 2015(ES6)添加了一个名为["字符串模板"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)的本地模板机制。此外，最近模板已经被[JSX](https://facebook.github.io/jsx/)、[一个模板元素](http://aurelia.io/docs/templating/basics)或[HTML字符串](https://angular.io/docs/ts/latest/guide/template-syntax.html#)之类的东西所取代。
+注意到JavaScript 2015(ES6)添加了一个名为["字符串模板"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)的原生模板机制。此外，最近模板已经被[JSX](https://facebook.github.io/jsx/)、[一个模板元素](http://aurelia.io/docs/templating/basics)或[HTML字符串](https://angular.io/docs/ts/latest/guide/template-syntax.html#)之类的东西所取代。
 
 如果我不使用React和JSX，我会首先使用JavaScript的["字符串模板"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings)，当它也没有时，我会选择[nunjucks](http://mozilla.github.io/nunjucks/getting-started.html)。
 
 ### 3.18 学习静态站点生成器
 
-静态站点生成器，通常使用服务器端代码(比如，ruby、php、python、nodeJS等)，从静态文本或数据+模板生成静态HTML文件，这些模板将静态地从服务器发送到客户机，而不具有动态性质。
+静态站点生成器，通常使用服务器端代码(比如，ruby、php、python、nodeJS等)，从静态文本或数据+模板生成静态HTML文件，这些模板将静态地从服务器发送到客户端，而不具有动态性质。
 
 **基础学习:**
 
@@ -1625,9 +1626,9 @@ JavaScript模板通常用于将视图的各个部分(UI)与逻辑和模型(数�
 
 ### 3.19 通过JS学习计算机科学
 
-* [六个小时完成四个学期的计算机科学课](https://frontendmasters.com/courses/computer-science/) \[视频\]\[付费\]
+* [六小时完成四个学期的计算机科学课](https://frontendmasters.com/courses/computer-science/) \[视频\]\[付费\]
 
-* [六个小时完成四个学期的计算机科学: 第二部分](https://frontendmasters.com/courses/computer-science-2/) \[视频\]\[付费\]
+* [六小时完成四个学期的计算机科学: 第二部分](https://frontendmasters.com/courses/computer-science-2/) \[视频\]\[付费\]
 
 * [JavaScript中的计算机科学](https://github.com/davidshariff/computer-science) \[阅读\]
 
@@ -1645,7 +1646,7 @@ JavaScript模板通常用于将视图的各个部分(UI)与逻辑和模型(数�
 
 * [掌握前端指南](https://github.com/grab/front-end-guide) \[观看\]
 
-* [JavaScript项目的一组最佳实践](https://github.com/elsewhencode/project-guidelines)
+* [一组JavaScript项目的最佳实践](https://github.com/elsewhencode/project-guidelines)
 
 * [现代Web开发的拼写书](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
@@ -1920,7 +1921,7 @@ JavaScript模板通常用于将视图的各个部分(UI)与逻辑和模型(数�
 
 ### 3.31 学习包管理器
 
-> *包管理器或包管理系统是一组软件集合的工具，它可以通过一致的方式自动执行安装，更新，配置以及移除计算机操作系统软件包的过程。它通常维护了一个软件依和版本信息的赖数据库，以防止软件无法匹配和丢失前置依赖。*
+> *包管理器或包管理系统是一组软件集合的工具，它可以通过一致的方式自动执行安装，更新，配置以及移除计算机操作系统软件包的过程。它通常维护了一个软件依赖和版本信息的数据库，以防止软件无法匹配和丢失前置依赖。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Package_manager)*
 >
@@ -2008,7 +2009,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 ### 3.34 学习站点性能优化
 
-> *Web性能优化，WPO或网站优化是关于提升那些在用户web浏览器中已下载和已展示web页面的速度的只是领域。随着全球平局网络速度的提升，网站管理者和站长应该考虑呈现给用户的网站耗时。*
+> *Web性能优化，WPO或网站优化是关于提升那些在用户web浏览器中已下载和已展示web页面的速度的只是知识领域。随着全球平局网络速度的提升，网站管理者和站长应该考虑呈现给用户的网站耗时。*
 >
 > *— [维基百科](https://en.wikipedia.org/wiki/Web_performance_optimization)*
 >
@@ -2023,7 +2024,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 - [JavaScript性能Rock](http://javascriptrocks.com/) [阅读][付费]
 
-- [页面速度洞察规则][https://developers.google.com/speed/docs/insights/rules][阅读]
+- [页面速度洞察规则](https://developers.google.com/speed/docs/insights/rules)[阅读]
 
 - [最新的性能工具](http://www.perf-tooling.today/) [阅读]
 
@@ -2603,7 +2604,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 > 
 > *—[cssreset.com](http://cssreset.com/what-is-a-css-reset/)*
 
-* [Eric Meyer's “Reset CSS” 2.0](https://meyerweb.com/eric/tools/css/reset/)
+* [Eric Meyer的“Reset CSS” 2.0](https://meyerweb.com/eric/tools/css/reset/)
 
 * [Normalize](https://necolas.github.io/normalize.css/)
 
@@ -2750,8 +2751,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [jQuery](http://jquery.com/)
 
-  * [你不需要jQuery]
-  (https://github.com/oneuijs/You-Dont-Need-jQuery)
+  * [你不需要jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 * [Zepto](http://zeptojs.com/)
 
@@ -3151,7 +3151,7 @@ Gulp是伟大的。然而，你应该只需要执行`npm run`。在转向你应�
 
 * [todomvc.com](http://todomvc.com/)
 
-* [RealWorld示例应用程序](https://github.com/gothinkster/realworld) \[code\]
+* [RealWorld示例应用程序](https://github.com/gothinkster/realworld) \[代码\]
 
 * [前端准则草案](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 
@@ -3304,7 +3304,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 * [Google图表](https://developers.google.com/chart/interactive/docs/)
 
-* [Highcharts](http://www.highcharts.com/) \[非商业 部分免费\]
+* [Highcharts](http://www.highcharts.com/) \[非商业部分免费\]
 
 * [ZingChart](http://www.zingchart.com/) \[部分免费\]
 
@@ -3855,7 +3855,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 + [sitespeed.io](https://www.sitespeed.io/)
 
-+ [速度曲线](https://speedcurve.com/)[$]
++ [速度曲线](https://speedcurve.com/)[付费]
 
 + [Web页面测试](http://www.webpagetest.org/)
 
@@ -3863,7 +3863,7 @@ Preact试图以用尽可能少的代码来重新创建React(或类似的库，�
 
 + [webhint.io](https://webhint.io/)
 
-+ [Datadog](https://www.datadoghq.com/)[$]
++ [Datadog](https://www.datadoghq.com/)[付费]
 
 + [Lighthosue](https://developers.google.com/web/tools/lighthouse/)
 
